@@ -1,0 +1,310 @@
+STAGE 1 (Deleted after full reading),,,STAGE 2 (Deleted after full reading),
+,,,,
+Article name,Reason for exclusion,,Article name,Reason for exclusion
+"""Artificial Intelligence"" for Pharmacovigilance: Ready for Prime Time?","Theoretical study, Does not use data mining",,Cai et al. - Real-world safety of icosapent ethyl: analysis based on spontaneous reports in FAERS database,closed access article
+[Adverse Event Trends Associated with OTC Analgesic and Antipyretic Drug: Data Mining of the Japanese Adverse Drug Event Report Database].,Not available in English,,Cao et al. - Evaluating Ubrogepant-related adverse events using the FDA adverse event reporting system,closed access article
+[Adverse Event Trends Associated with Over-the-counter Combination Cold Remedy: Data Mining of the Japanese Adverse Drug Event Report Database].,Not available in English,,Ji et al. - Adverse event profiles of drug-induced decreased libido: an assessment of the US food and drug administration Adverse Event Reporting System,closed access article
+[Adverse Event Trends Associated with Over-the-counter Drugs: Data Mining of the Japanese Adverse Drug Event Report Database].,Not available in English,,Li et al. - Data mining and safety analysis of traditional immunosuppressive drugs: a pharmacovigilance investigation based on the FAERS database,closed access article
+[Association between Selective Beta-adrenergic Drugs and Blood Pressure Elevation: Data Mining of the Japanese Adverse Drug Event Report (JADER) Database].,Not available in English,,Li et al. - Gender differences in adverse events related to Osimertinib: a real-world pharmacovigilance analysis of FDA adverse event reporting system,closed access article
+3D pharmacophoric similarity improves multi adverse drug event identification in pharmacovigilance,Does not use data mining,,Rao et al. - Assessment of adverse events of the novel cardiovascular drug vericiguat: a real-world pharmacovigilance study based on FAERS,closed access article
+A biological pharmacology network to secure the risk of drug-drug interaction with nirmatrelvir/ritonavir,Does not use pharmacovigilance data,,Shi et al. - Comparing adverse events of tenecteplase and alteplase: a real-world analysis of the FDA adverse event reporting system (FAERS),closed access article
+A broad assessment of covid-19 vaccine safety using tree-based data-mining in the vaccine safety datalink,Uses vaccine data,,Singh et al. - Identification of novel signal of Raynaud’s phenomenon with Calcitonin Gene-Related Peptide(CGRP) antagonists using data mining algorithms and network pharmacological approaches,closed access article
+A broad assessment of rotavirus vaccine safety in infants in Korea: Insights from a data-driven signal detection approach,Uses vaccine data,,Wang et al. - Cardiac arrhythmias associated with anaplastic lymphoma kinase (ALK) inhibitors: an analysis of the FDA Adverse Event Reporting System (FAERS),closed access article
+A Broad Safety Assessment of the 9-Valent Human Papillomavirus Vaccine,Uses vaccine data,,Wang et al. - Data mining and analysis of the adverse events derived signals of 4 gadolinium-based contrast agents based on the US Food and drug administration adverse event reporting system,closed access article
+A classification framework for exploiting sparse multi-variate temporal features with application to adverse drug event detection in medical records,Does not use pharmacovigilance data,,Wang et al. - Data mining for signal detection of adverse events for taxanes based on the food and drug administration adverse drug events reporting system database,closed access article
+A comparative analysis of adverse drug reaction prediction techniques,"Does not use pharmacovigilance data, Does not use data mining",,Wen et al. - A real-world disproportionality analysis of ospemifene: data mining of the public version of FDA adverse event reporting system,closed access article
+A Data Fusion Pipeline for Generating and Enriching Adverse Outcome Pathway Descriptions,Does not use pharmacovigilance data,,Wu et al. - Safety of daratumumab in the real-world: a pharmacovigilance study based on FAERS database,closed access article
+A data science approach to drug safety: Semantic and visual mining of adverse drug events from clinical trials of pain treatments,Does not use pharmacovigilance data,,Wu et al. - Mining and analysis of adverse events associated with aducanumab: a real-world study using FDA Adverse Event Reporting System database,closed access article
+A data-driven method to detect adverse drug events from prescription data,Does not use pharmacovigilance data,,Wu et al. - Post-Marketing Safety Concerns with Upadacitinib: A Disproportionality Analysis of the FDA Adverse Event Reporting system,closed access article
+A database of pediatric drug effects to evaluate ontogenic mechanisms from child growth and development,Does not use pharmacovigilance data,,Xiang et al. - Adverse events of guselkumab in the real world: emerging signals to target preventive strategies from the FDA adverse event reporting system,closed access article
+A dataset of 200 structured product labels annotated for adverse drug reactions,Does not use data mining,,Xiong et al. - Adverse events associated with brolucizumab: a disproportionality analysis of the FDA adverse event reporting system (FAERS),closed access article
+A dynamic reaction picklist for improving allergy reaction documentation in the electronic health record,"Does not use pharmacovigilance data, Does not use data mining",,"Xu et al. - Thromboembolism adverse event profiles of thrombopoietin receptor agonists: a real-world, pharmacovigilance study",closed access article
+A holistic AI-based approach for pharmacovigilance optimization from patients behavior on social media,Does not use pharmacovigilance data,,Xu et al. - A real-world pharmacovigilance analysis of the FDA adverse event reporting system events for polatuzumab vedotin,closed access article
+A method for systematic discovery of adverse drug events from clinical notes,Does not use pharmacovigilance data,,Yun et al. - A real‑world pharmacovigilance study of FDA adverse event reporting system events for daratumumab,closed access article
+A neural joint model for entity and relation extraction from biomedical text,"Does not use pharmacovigilance data, Does not use data mining",,Zhang et al. - Neurotoxicity induced by taxane-derived drugs: analysis of the FAERS database 2017–2021,closed access article
+A New Drug Safety Signal Detection and Triage System Integrating Sequence Symmetry Analysis and Tree-Based Scan Statistics with Longitudinal Data,Does not use official bases,,Zhang et al. - Tyrosine kinase inhibitors-associated interstitial lung disease used in non-small cell lung cancer: a pharmacovigilance analysis based on the FDA adverse event reporting system database,closed access article
+A new word embedding model integrated with medical knowledge for deep learning-based sentiment classification,Does not use pharmacovigilance data,,Zhao et al. - Mining and analysis of adverse event signals for alendronate based on the real-world data of FDA adverse event reporting system database,closed access article
+A novel approach to predicting the synergy of anti-cancer drug combinations using document-based feature extraction,Does not use official bases,,Zhong et al. - A real-world pharmacovigilance study using disproportionality analysis of United States Food and Drug Administration Adverse Event Reporting System events for vinca alkaloids: comparing vinorelbine and Vincristine,closed access article
+A novel data mining application to detect safety signals for newly approved medications in routine care of patients with diabetes,Does not use official bases,,Bhatt e Desai - New safety signal for psoriasis associated with angiotensin receptor blockers: Qualitative and quantitative analysis using pharmacovigilance tools,closed access article
+A novel strategy of profiling the mechanism of herbal medicines by combining network pharmacology with plasma concentration determination and affinity constant measurement,Theoretical study,,Ge et al. - Safety profile of carbapenems: Data mining of the FDA adverse events reporting system,closed access article
+A novel weighted pseudo-labeling framework based on matrix factorization for adverse drug reaction prediction,Does not use data mining,,Ohyama et al. - Association of gynecomastia with antidiabetic medications in older adults: Data mining from different national pharmacovigilance databases,closed access article
+A personalized and learning approach for identifying drugs with adverse events,Does not use pharmacovigilance data,,Raghuvanshi et al. - Identification of Novel Signals Associated with US-FDA Approved Drugs (2013) Using Disproportionality Analysis,closed access article
+A Text Searching Tool to Identify Patients with Idiosyncratic Drug-Induced Liver Injury.,Does not use pharmacovigilance data,,"Shah e Kothari - Comparative Safety Assessment Study for Drospirenone Induced Gallbladder Diseases Using the Adverse Drug Reaction Database of USA, Europe, and Canada",closed access article
+A trajectory-informed model for detecting drug-drug-host interaction from real-world data,Does not use pharmacovigilance data,,Seo et al.- Signals of Adverse Drug Reactions of Paliperidone Compared to Other Atypical Antipsychotics Using the Korean Adverse Event Reporting System Database,closed access article
+Acquisition of temporal patterns from electronic health records: an application to multimorbid patients,Does not use pharmacovigilance data,,Wang et al. - Comprehensive Analysis of Mitotane-Related Adverse Events Using the Food and Drug Administration Adverse Event Reporting System,closed access article
+Add-On Treatment with Zilebesiran for Inadequately Controlled Hypertension: The KARDIA-2 Randomized Clinical Trial,"Does not use pharmacovigilance data, Does not use official bases",,"Data mining spontaneous adverse drug event
+reports for safety signals in Singapore – a
+comparison of three different disproportionality
+measures",closed access article
+ADReCS-Target: Target profiles for aiding drug safety research and application,Does not use pharmacovigilance data,,"Quantitative data mining in signal detection: the
+Singapore experience",closed access article
+Adverse drug events and medication relation extraction in electronic health records with ensemble deep learning methods.,Does not use pharmacovigilance data,,"OpenVigil FDA – Inspection of U.S. American
+Adverse Drug Events Pharmacovigilance Data
+and Novel Clinical Applications",closed access article
+Adverse Drug Reaction Identification and Extraction in Social Media: A Scoping Review.,Review article,,"Named entity recognition from Chinese adverse drug event reports with
+lexical feature based BiLSTM-CRF and tri-training",closed access article
+Adverse effects of proton pump inhibitors (PPIs) on the renal system using data mining algorithms (DMAs),Review article,,"A Feasibility Study of Drug–Drug Interaction Signal Detection
+in Regular Pharmacovigilance",closed access article
+Adverse event detection by integrating twitter data and VAERS,Uses vaccine data,,"Navigating the complex landscape
+of benzodiazepine- and Z-drug
+diversity: insights from
+comprehensive FDA adverse event
+reporting system analysis and
+beyond",closed access article
+Adverse Event extraction from Structured Product Labels using the Event-based Text-mining of Health Electronic Records (ETHER) system.,Does not use pharmacovigilance data,,"A Comparison Study of Algorithms to Detect Drug–Adverse
+Event Associations: Frequentist, Bayesian, and Machine‐Learning
+Approaches",closed access article
+"Adverse events following Haemophilus influenzae type b vaccines in the vaccine adverse event reporting system, 1990-2013",Uses vaccine data,,"A Drug Similarity‐Based Bayesian Method for Early Adverse Drug
+Event Detection",closed access article
+"Adverse events following measles, mumps, and rubella vaccine in adults reported to the vaccine adverse event reporting system (VAERS), 2003-2013",Uses vaccine data,,"A Modified Skip-Gram Algorithm for Extracting Drug-Drug
+Interactions from AERS Reports",closed access article
+"Adverse events following quadrivalent meningococcal CRM-conjugate vaccine (Menveo®) reported to the Vaccine Adverse Event Reporting system (VAERS), 2010–2015",Uses vaccine data,,"Data mining methodology for response
+to hypertension symptomology—
+application to COVID-19-related
+pharmacovigilance",closed access article
+"Adverse events following quadrivalent meningococcal diphtheria toxoid conjugate vaccine (Menactra®) reported to the Vaccine Adverse Event Reporting System (VAERS), 2005–2016",Uses vaccine data,,"Clustering‐Based Hybrid Approach for Identifying Quantitative
+Multidimensional Associations Between Patient Attributes, Drugs
+and Adverse Drug Reactions",closed access article
+An ensemble of neural models for nested adverse drug events and medication extraction with subwords.,Does not use pharmacovigilance data,,"Identification of Pregnancy Adverse Drug Reactions
+in Pharmacovigilance Reporting Systems: A Novel Algorithm
+Developed in EudraVigilance",closed access article
+An innovative method to strengthen evidence for potential drug safety signals using Electronic Health Records,Does not use pharmacovigilance data,,"Detecting high-quality signals of adverse drug-drug interactions from
+spontaneous reporting data",closed access article
+An Integrative Data Science Pipeline to Identify Novel Drug Interactions that Prolong the QT Interval,Does not use pharmacovigilance data,,"Application of biclustering algorithm in adverse drug reaction
+monitoring system of China",closed access article
+Analyzing information seeking and drug-safety alert response by health care professionals as new methods for surveillance,"Theoretical study, Review article",,,
+Antibiotic-Induced Liver Injury in Paediatric Outpatients: A Case-Control Study in Primary Care Databases.,Does not use pharmacovigilance data,,,
+Applications of data mining in healthcare and current issues,"Theoretical study, Review article",,,
+"Artificial Intelligence in Pharmacovigilance: An Introduction to Terms, Concepts, Applications, and Limitations","Theoretical study, Review article",,,
+Artificial intelligence to deep learning: machine intelligence approach for drug discovery,"Does not use pharmacovigilance data, Does not use data mining",,,
+Asparaginase-related diabetic ketoacidosis: Analysis of the FDA Adverse Event Reporting System (FAERS) data and literature review,Review article,,,
+Assessing domain adaptation in adverse drug event extraction on real-world breast cancer records,Does not use pharmacovigilance data,,,
+Assessing patient perceptions and experiences of Paracetamol in France: Infodemiology study using social media data mining,Does not use pharmacovigilance data,,,
+Assessing the Need of Discourse-Level Analysis in Identifying Evidence of Drug-Disease Relations in Scientific Literature.,"Does not use pharmacovigilance data, Theoretical study, Does not use data mining",,,
+Assessment of Medication Safety Using Only Dispensing Data,Review article,,,
+Automatic text classification of drug-induced liver injury using document-term matrix and XGBoost,Does not use official bases,,,
+Automation in signal management in pharmacovigilance-an insight,Theoretical study,,,
+Bi-level artificial intelligence model for risk classification of acute respiratory diseases based on Chinese clinical data,Does not use pharmacovigilance data,,,
+Big data and pharmacovigilance: Data mining for adverse drug events and interactions,Theoretical study,,,
+"Big data, pharmacoepidemiology and pharmacovigilance",Theoretical study,,,
+CA-SQBG: Cross-attention guided Siamese quantum BiGRU for drug-drug interaction extraction,Does not use pharmacovigilance data,,,
+Cadec: A corpus of adverse drug event annotations,"Does not use pharmacovigilance data, Does not use data mining",,,
+Causality patterns for detecting adverse drug reactions from social media: Text mining approach,Does not use pharmacovigilance data,,,
+CD-REST: A system for extracting chemicalinduced disease relation in literature,Theoretical study,,,
+"Challenges and opportunities for mining adverse drug reactions: perspectives from pharma, regulatory agencies, healthcare providers and consumers","Theoretical study, Does not use pharmacovigilance data, Does not use data mining",,,
+"Columbia open health data, clinical concept prevalence and co-occurrence from electronic health records","Does not use pharmacovigilance data, Does not use data mining",,,
+Comparative assessment of manual chart review and ICD claims data in evaluating immunotherapy-related adverse events,Does not use pharmacovigilance data,,,
+Comparison of laboratory threshold criteria in drug-induced liver injury detection algorithms for use in pharmacovigilance,Does not use pharmacovigilance data,,,
+Comparison of Outcomes Following a Switch From a Brand to an Authorized Versus Independent Generic Drug,Does not use pharmacovigilance data,,,
+Computerized techniques pave the way for drug-drug interaction prediction and interpretation,Does not use pharmacovigilance data,,,
+Congruency of Crash- and Hospital- Reported Injuries Among Child Passengers,"Does not use pharmacovigilance data, Does not use data mining",,,
+Constructing a Gene-Drug-Adverse Reactions Network and Inferring Potential Gene-Adverse Reactions Associations Using a Text Mining Approach,Does not use pharmacovigilance data,,,
+Data Mining for Adverse Drug Events: Impact on Six Learning Styles,"Theoretical study, Does not use pharmacovigilance data",,,
+Data Mining for Adverse Events of Tumor Necrosis Factor-Alpha Inhibitors in Pediatric Patients: Tree-Based Scan Statistic Analyses of Danish Nationwide Health Data,Does not use official bases,,,
+Database application model and its service for drug discovery in Model-driven architecture,Theoretical study,,,
+DDI-KGAT: A Graph Attention Network on Biomedical Knowledge Graph for the Prediction of Drug-Drug Interactions,Does not use pharmacovigilance data,,,
+"Deciphering relationships in disease networks using computational approaches: Fatty liver, PCOD, osteoarthritis, cholelithiasis & hyperlipdemia",Theoretical study,,,
+Decision support environment for medical product safety surveillance.,Uses vaccine data,,,
+Deep Learning for Adverse Event Detection From Web Search,Does not use data mining,,,
+Delayed Skin Testing for Systemic Medications: Helpful or Not?,Review article,,,
+Describing drivers of and barriers to persistence with tiotropium in patients with chronic obstructive pulmonary disease: A mixed-methods approach,Theoretical study,,,
+Detecting Adverse Drug Event Signals from a Clinical CaseBase,Does not use pharmacovigilance data,,,
+Detecting Adverse Drug Events in Clinical Notes Using Large Language Models,Does not use data mining,,,
+Detecting Chemotherapeutic Skin Adverse Reactions in Social Health Networks Using Deep Learning.,Does not use pharmacovigilance data,,,
+Detecting signals of detrimental prescribing cascades from social media,"Does not use pharmacovigilance data, Does not use data mining",,,
+"Detection and evaluation of signals for immune-related adverse events: a nationwide, population-based study",Does not use pharmacovigilance data,,,
+Detection of potential drug-drug interactions for risk of acute kidney injury: a population-based case-control study using interpretable machine-learning models,Does not use pharmacovigilance data,,,
+Development and Validation of an Explainable Machine Learning-Based Prediction Model for Drug–Food Interactions from Chemical Structures,Does not use pharmacovigilance data,,,
+Development of a Drug Safety Signal Detection Reference Set Using Japanese Safety Information,Does not use pharmacovigilance data,,,
+Development of a text mining algorithm for identifying adverse drug reactions in electronic health records,Does not use official bases,,,
+DG-GL: Differential geometry-based geometric learning of molecular datasets,Does not use pharmacovigilance data,,,
+Discovering Evolving Temporal Information: Theory and Application to Clinical Databases,Does not use pharmacovigilance data,,,
+Discovering Severe Adverse Reactions From Pharmacokinetic Drug–Drug Interactions Through Literature Analysis and Electronic Health Record Verification,"Does not use pharmacovigilance data, Does not use data mining",,,
+Disease and adverse drug reaction prediction using machine learning,"Theoretical study, Does not use official bases",,,
+Distant Supervision with Transductive Learning for Adverse Drug Reaction Identification from Electronic Medical Records,Does not use pharmacovigilance data,,,
+DmetTM genotyping: Tools for biomarkers discovery in the era of precision medicine,Review article,,,
+DSE-HNGCN: Predicting the frequencies of drug-side effects based on heterogeneous networks with mining interactions between drugs and side effects,"Does not use pharmacovigilance data, Does not use data mining",,,
+Effective ways of finding adverse drug reactions in pharmacovigilance,Theoretical study,,,
+Effects of Transradial Access on In-Hospital Outcomes in Percutaneous Coronary Intervention for Coronary Artery Bypass Graft: Insights from the Japanese Nationwide Database,Does not use pharmacovigilance data,,,
+"Enhanced Safety Surveillance of Influenza Vaccines in General Practice, Winter 2015-16: Feasibility Study",Uses vaccine data,,,
+Enhancing Prediction of Drug Indication and Side Effects through Named Entity Recognition and Jointly Learning of Syntactic Structures of Sentences,Does not use pharmacovigilance data,,,
+Enhancing the Enrichment of Pharmacophore-Based Target Prediction for the Polypharmacological Profiles of Drugs,Theoretical study,,,
+Epidemiology and ‘big data’,Theoretical study,,,
+Establishment of a visualization platform for ADR query and analysis: an example of severe skin adverse reactions caused by sulfonylureas,Focus on software tool,,,
+Evaluating performance of electronic healthcare records and spontaneous reporting data in drug safety signal detection,Does not use pharmacovigilance data,,,
+"Evaluation of a natural language processing tool for extracting gender, weight, ethnicity, and race in the US food and drug administration adverse event reporting system",Does not use data mining,,,
+Evaluation of Internet Social Networks using Net scoring Tool: A Case Study in Adverse Drug Reaction Mining,"Does not use pharmacovigilance data, Does not use data mining",,,
+"Evaluation of Nowcasting for Detecting and Predicting Local Influenza Epidemics, Sweden, 2009-2014.","Out of date, Does not use pharmacovigilance data",,,
+Examining the effect of prescription sequence on developing adverse drug reactions: The case of renal failure in diabetic patients,Does not use pharmacovigilance data,,,
+Exploiting complex medical data with interpretable deep learning for adverse drug event prediction,Does not use pharmacovigilance data,,,
+Exploring brand-name drug mentions on Twitter for pharmacovigilance,Does not use pharmacovigilance data,,,
+Exploring Joint AB-LSTM with Embedded Lemmas for Adverse Drug Reaction Discovery,Does not use pharmacovigilance data,,,
+Exploring the drug-induced anemia signals in children using electronic medical records,Does not use pharmacovigilance data,,,
+"Exploring the multi-gene regulatory molecular mechanism of Saudi Arabian flora against epilepsy based on data mining, network pharmacology and docking analysis","Does not use pharmacovigilance data, Does not use data mining",,,
+Extracting drug names and associated attributes from discharge summaries: Text mining study,Does not use pharmacovigilance data,,,
+Extracting drug-drug interactions with hybrid bidirectional gated recurrent unit and graph convolutional network.,"Does not use pharmacovigilance data, Does not use data mining",,,
+Extracting drug-enzyme relation from literature as evidence for drug drug interaction,"Does not use pharmacovigilance data, Does not use data mining",,,
+Extraction of relations between genes and diseases from text and large-scale data analysis: implications for translational research,Does not use pharmacovigilance data,,,
+Factors Affecting the Timing of Signal Detection of Adverse Drug Reactions,Does not use pharmacovigilance data,,,
+Filtering Entities to Optimize Identification of Adverse Drug Reaction From Social Media: How Can the Number of Words Between Entities in the Messages Help?,Does not use pharmacovigilance data,,,
+Finding Causal Mechanistic Drug-Drug Interactions from Observational Data,"Does not use pharmacovigilance data, Theoretical study",,,
+FIR: An Effective Scheme for Extracting Useful Metadata from Social Media,Does not use pharmacovigilance data,,,
+Five-feature model for developing the classifier for synergistic vs. Antagonistic drug combinations built by XGboost,Does not use pharmacovigilance data,,,
+From narrative descriptions to MedDRA: automagically encoding adverse drug reactions,Does not use official bases,,,
+Generating modeling data from repeat-dose toxicity reports,Does not use pharmacovigilance data,,,
+Graphic Mining of High-Order Drug Interactions and Their Directional Effects on Myopathy Using Electronic Medical Records,Does not use pharmacovigilance data,,,
+Hemophagocytic Lymphohistiocytosis in a Kidney Transplant Recipient: Case Report,"Does not use pharmacovigilance data, Does not use data mining",,,
+Hepatitis B infection reported with cancer chemotherapy: analyzing the US FDA Adverse Event Reporting System,Does not use pharmacovigilance data,,,
+Higher rates of COVID-19 but less severe infections reported for patients on Dupilumab: A big data analysis of the World Health Organization VigiBase,Theoretical study,,,
+Historical Evolution and Provider Awareness of Inactive Ingredients in Oral Medications,"Does not use pharmacovigilance data, Theoretical study",,,
+Identification of adverse drug events from free text electronic patient records and information in a large mental health case register,Does not use pharmacovigilance data,,,
+Identification of Primary Medication Concerns Regarding Thyroid Hormone Replacement Therapy From Online Patient Medication Reviews: Text Mining of Social Network Data.,Does not use pharmacovigilance data,,,
+Identifying adverse drug event information in clinical notes with distributional semantic representations of context,Does not use pharmacovigilance data,,,
+"Identifying Diseases, Drugs, and Symptoms in Twitter","Does not use pharmacovigilance data, Does not use data mining",,,
+Identifying naloxone administrations in electronic health record data using a text-mining tool,"Does not use pharmacovigilance data, Does not use data mining",,,
+Identifying the Underlying Factors Associated With Patients' Attitudes Toward Antidepressants: Qualitative and Quantitative Analysis of Patient Drug Reviews,Does not use pharmacovigilance data,,,
+IK-DDI: a novel framework based on instance position embedding and key external text for DDI extraction,Does not use pharmacovigilance data,,,
+Improved frequent item-sets mining in pharmacovigilance,Theoretical study,,,
+Improvement of Adequate Digoxin Dosage: An Application of Machine Learning Approach,"Does not use pharmacovigilance data, Does not use data mining",,,
+Improving entity recognition using ensembles of deep learning and fine-tuned large language models: A case study on adverse event extraction from VAERS and social media,Uses vaccine data,,,
+Improving large language models for clinical named entity recognition via prompt engineering,Uses vaccine data,,,
+In silico methods for drug repurposing and pharmacology,Theoretical study,,,
+Information on adverse drug reactions—Proof of principle for a structured database that allows customization of drug information,Does not use pharmacovigilance data,,,
+Information-Derived Mechanistic Hypotheses for Structural Cardiotoxicity,Does not use pharmacovigilance data,,,
+Inverse association between sodium channel-blocking antiepileptic drug use and cancer: Data mining of spontaneous reporting and claims databases,Theoretical study,,,
+Joint Biomedical Entity and Relation Extraction Based on Feature Filter Table Labeling,Does not use pharmacovigilance data,,,
+Key Contributions in Clinical Research Informatics,Theoretical study,,,
+KNIME-Based analysis of off-target effect of drugs related to the molecular 2d fingerprint,Does not use pharmacovigilance data,,,
+Knowledge-guided convolutional networks for chemical-disease relation extraction,Does not use pharmacovigilance data,,,
+Lack of essential information in spontaneous reports of adverse drug reactions in Catalonia—a restraint to the potentiality for signal detection,"Does not use data mining, Theoretical study",,,
+Learning approaches to improve prediction of drug sensitivity in breast cancer patients,Theoretical study,,,
+"Learning Medicinal Chemistry Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Rules from Cross-Company Matched Molecular Pairs Analysis (MMPA)",Does not use pharmacovigilance data,,,
+Learning predictive models of drug side-effect relationships from distributed representations of literature-derived semantic predications,Does not use pharmacovigilance data,,,
+Lessons from meta-analyses of randomized clinical trials for analysis of distributed networks of observational databases,Theoretical study,,,
+Leveraging Large Language Models for Synthetic Data Generation to Enhance Adverse Drug Event Detection in Tweets,Does not use official bases,,,
+Leveraging MEDLINE indexing for pharmacovigilance - Inherent limitations and mitigation strategies,"Does not use official bases, Does not use pharmacovigilance data, Does not use data mining",,,
+"Major Birth Defects after Vaccination Reported to the Vaccine Adverse Event Reporting System (VAERS), 1990 to 2014",Uses vaccine data,,,
+Making Sense of Pharmacovigilance and Drug Adverse Event Reporting: Comparative Similarity Association Analysis Using AI Machine Learning Algorithms in Dogs and Cats,Does not use pharmacovigilance data,,,
+Maternal paracetamol intake and fetal ductus arteriosus constriction/closure: comprehensive signal evaluation using the Austin Bradford Hill criteria,"Does not use pharmacovigilance data, Does not use data mining",,,
+"Medications Reported to the Medicare Hospice Program after Medicare Drug Policy Changes, 2014–2018",Out of date,,,
+Meta-analysis method for discovering reliable biomarkers by integrating statistical and biological approaches: An application to liver toxicity,Review article,,,
+Mining Adverse Drug Reactions in Social Media with Named Entity Recognition and Semantic Methods,Does not use pharmacovigilance data,,,
+Mining clinical big data for drug safety: Detecting inadequate treatment with a DNA sequence alignment algorithm.,Does not use pharmacovigilance data,,,
+Mining Discriminative Patterns from Graph Data with Multiple Labels and Its Application to Quantitative Structure-Activity Relationship (QSAR) Models,Does not use official bases,,,
+Mining heterogeneous network for drug repositioning using phenotypic information extracted from social media and pharmaceutical databases,Does not use pharmacovigilance data,,,
+Mining heterogeneous networks with topological features constructed from patient-contributed content for pharmacovigilance,Does not use pharmacovigilance data,,,
+Mining severe drug-drug interaction adverse events using Semantic Web technologies: A case study,"Does not use pharmacovigilance data, Does not use data mining",,,
+Mining small routine clinical data: A population pharmacokinetic model and optimal sampling times of capecitabine and its metabolites,"Does not use pharmacovigilance data, Does not use data mining",,,
+Mining Social Media Data for Biomedical Signals and Health-Related Behavior,Does not use pharmacovigilance data,,,
+Mixture drug-count response model for the high-dimensional drug combinatory effect on myopathy,Does not use pharmacovigilance data,,,
+Model tuning or prompt Tuning? a study of large language models for clinical concept and relation extraction,"Does not use pharmacovigilance data, Does not use data mining",,,
+Modular Multi-Source Prediction of Drug Side-Effects with DruGNN,Does not use pharmacovigilance data,,,
+Monitoring Drug Safety in Pregnancy with Scan Statistics: A Comparison of Two Study Designs,"Does not use pharmacovigilance data, Does not use data mining",,,
+"Monitoring drug trends in the digital environment–New methods, challenges and the opportunities provided by automated approaches",Theoretical study,,,
+Monitoring User Opinions and Side Effects on COVID-19 Vaccines in the Twittersphere: Infodemiology Study of Tweets,"Does not use data mining, Uses vaccine data",,,
+Multi-view feature representation and fusion for drug-drug interactions prediction,Does not use pharmacovigilance data,,,
+MultiADE: A Multi-domain benchmark for Adverse Drug Event extraction,"Does not use pharmacovigilance data, Does not use data mining",,,
+Multimodal model with text and drug embeddings for adverse drug reaction classification,Does not use pharmacovigilance data,,,
+Multiple Regression Analysis and Frequent Itemset Mining of Electronic Medical Records: A Visual Analytics Approach Using VISA_M3R3,Does not use pharmacovigilance data,,,
+Myocarditis and pericarditis following COVID-19 vaccination: Inequalities in age and vaccine types,Uses vaccine data,,,
+"Myopericarditis after vaccination, Vaccine Adverse Event Reporting System (VAERS), 1990–2018",Uses vaccine data,,,
+Negative Pressure Dressings to Prevent Surgical Site Infection After Emergency Laparotomy: The SUNRRISE Randomized Clinical Trial,"Does not use pharmacovigilance data, Does not use data mining",,,
+Neural Multi-Task Learning for Adverse Drug Reaction Extraction,"Does not use pharmacovigilance data, Does not use data mining",,,
+Neural negated entity recognition in Spanish electronic health records,Does not use pharmacovigilance data,,,
+"New insights in computational methods for pharmacovigilance: e-synthesis, a bayesian framework for causal assessment","Theoretical study, Does not use pharmacovigilance data, Does not use data mining",,,
+"Nintedanib for patients with lymphangioleiomyomatosis: a phase 2, open-label, single-arm study","Does not use pharmacovigilance data, Does not use data mining",,,
+Nonoperative Management of Technically Resectable Pancreatic Cancer with Ablative Radiation Therapy,"Does not use pharmacovigilance data, Does not use data mining",,,
+Novel Analysis Methods to Mine Immune-Mediated Phenotypes and Find Genetic Variation Within the Electronic Health Record (Roadmap for Phenotype to Genotype: Immunogenomics),Review article,,,
+Novel insights into data mining to improve the specificity of pharmacovigilance and prevent adverse drug reactions in psychiatric patients,Review article,,,
+On the creation of a clinical gold standard corpus in Spanish: Mining adverse drug reactions,Does not use data mining,,,
+Ontology-based literature mining and class effect analysis of adverse drug reactions associated with neuropathy-inducing drugs,Does not use data mining,,,
+Ophthalmologic Complications in Coronavirus Disease 2019 Immunization: A National Vaccine Adverse Event Reporting System Analysis,Uses vaccine data,,,
+Opinion Mining of Erowid’s Experience Reports on LSD and Psilocybin-Containing Mushrooms,Does not use pharmacovigilance data,,,
+Overview of the 8th Social Media Mining for Health Applications (#SMM4H) shared tasks at the AMIA 2023 Annual Symposium,"Does not use pharmacovigilance data, Does not use data mining",,,
+Pathway-Informed Classification System (PICS) for Cancer Analysis Using Gene Expression Data,Does not use pharmacovigilance data,,,
+"Patterns of adverse drug reaction signals in NAFDAC Pharmacovigilance activities from September to November, 2014",Theoretical study,,,
+Peripheral Iridectomy with Goniosynechialysis and Goniotomy vs Trabeculectomy for Advanced PACG: A Randomized Clinical Trial,"Does not use pharmacovigilance data, Does not use data mining",,,
+Pharmacovigilance evolution in the European Regulation,"Does not use pharmacovigilance data, Does not use data mining",,,
+"Pharmacovigilance in perspective: drug withdrawals, data mining and policy implications.",Review article,,,
+Pharmacovigilance through the development of text mining and natural language processing techniques.,Theoretical study,,,
+"Pharmacovigilance, signal detection using statistical data mining methods",Theoretical study,,,
+Pharmacovigilance: A data mining approach to signal detection.,Theoretical study,,,
+Phonotype: a New Taxonomy for mHealth Research,Theoretical study,,,
+Position-aware deep multi-task learning for drug–drug interaction extraction,Does not use pharmacovigilance data,,,
+"Post-authorization surveillance of adverse events following COVID-19 vaccines in pregnant persons in the vaccine adverse event reporting system (VAERS), December 2020 – October 2021",Uses vaccine data,,,
+"Post-licensure safety monitoring of quadrivalent human papillomavirus vaccine using the national adverse event following immunization surveillance system from Zhejiang province, 2018-2020",Uses vaccine data,,,
+"Post-licensure safety surveillance of 23-valent pneumococcal polysaccharide vaccine in the Vaccine Adverse Event Reporting System (VAERS), 1990-2013",Uses vaccine data,,,
+"Post-licensure safety surveillance of zoster vaccine live (Zostavax®) in the united states, vaccine adverse event reporting system (VAERS), 2006-2015",Uses vaccine data,,,
+"Post-Marketing Surveillance of Human Rabies Diploid Cell Vaccine (Imovax) in the Vaccine Adverse Event Reporting System (VAERS) in the United States, 1990‒2015",Uses vaccine data,,,
+PPAR gamma agonistic activity of dillapiole: protective effects against diabetic nephropathy,"Does not use pharmacovigilance data, Does not use data mining",,,
+Preclinical side effect prediction through pathway engineering of protein interaction network models,"Does not use pharmacovigilance data, Does not use data mining",,,
+Predicting potential side effects of drugs by recommender methods and ensemble learning,Theoretical study,,,
+Prediction of black box warning by mining patterns of Convergent Focus Shift in clinical trial study populations using linked public data,Does not use pharmacovigilance data,,,
+Prediction of chemical multi-target profiles and adverse outcomes with systems toxicology,Review article,,,
+Prevalence and nature of statin drug-drug interactions in a university hospital by electronic health record mining.,Does not use pharmacovigilance data,,,
+"Project Achoo: A Practical Model and Application for COVID-19 Detection From Recordings of Breath, Voice, and Cough.",Uses vaccine data,,,
+Pulse of the pandemic: Iterative topic filtering for clinical information extraction from social media,Does not use pharmacovigilance data,,,
+Quantitative Structure-Activity Relationship Models to Predict Cardiac Adverse Effects,Does not use pharmacovigilance data,,,
+Quick assessment of drug-related admissions over time (QUADRAT study),Does not use pharmacovigilance data,,,
+Real-world evaluation of supportive care using an electronic health record text-mining tool: G-CSF use in breast cancer patients,Does not use pharmacovigilance data,,,
+RedMed: Extending drug lexicons for social media applications,Does not use pharmacovigilance data,,,
+Relation Extraction From Biomedical and Clinical Text: Unified Multitask Learning Framework,Does not use pharmacovigilance data,,,
+Repeat-dose toxicity prediction with Generalized Read-Across (GenRA) using targeted transcriptomic data: A proof-of-concept case study,Does not use pharmacovigilance data,,,
+Repurposing of drugs against bacterial infections: A pharmacovigilance-based data mining approach,Does not use pharmacovigilance data,,,
+Retrospective side effect profiling of the metastatic melanoma combination therapy ipilimumab-nivolumab using adverse event data,Does not use pharmacovigilance data,,,
+Review of FDA Amendments Act Section 921 Experience in Posting Data-mining Results from the FAERS Database,Does not use pharmacovigilance data,,,
+Role of data mining on pharmaceutical industry-a survey,Does not use pharmacovigilance data,,,
+"Safety of bivalent human papillomavirus vaccine in the US vaccine adverse event reporting system (VAERS), 2009–2017",Does not use pharmacovigilance data,,,
+Safety of second-dose single-antigen varicella vaccine,Does not use pharmacovigilance data,,,
+Safety profile of human papilloma virus vaccines: an analysis of the US Vaccine Adverse Event Reporting System from 2007 to 2017,Does not use pharmacovigilance data,,,
+Safety surveillance of diphtheria and tetanus toxoids and acellular pertussis (DTaP) vaccines,Does not use pharmacovigilance data,,,
+Safety surveillance of varicella vaccine using tree-temporal scan analysis,Does not use pharmacovigilance data,,,
+Semi-Supervised Recurrent Neural Network for Adverse Drug Reaction mention extraction,Does not use pharmacovigilance data,,,
+"Semisupervised Learning to Boost hERG, Nav1.5, and Cav1.2 Cardiac Ion Channel Toxicity Prediction by Mining a Large Unlabeled Small Molecule Data Set",Does not use pharmacovigilance data,,,
+Sentiment ontology analysis for adverse drug effect,Does not use pharmacovigilance data,,,
+Serendipity-A Machine-Learning Application for Mining Serendipitous Drug Usage From Social Media,Does not use pharmacovigilance data,,,
+Sex differences in text-mined possible adverse drug events associated with drugs for psychosis,Does not use pharmacovigilance data,,,
+Signal detection of adverse events associated with gabapentinoid use for chronic pain,Does not use pharmacovigilance data,,,
+"Signal detection of adverse events following pneumococcal vaccines from the Korea adverse event reporting system database, 2005–2016",Does not use pharmacovigilance data,,,
+"Signal detection of human papillomavirus vaccines using the Korea Adverse Events Reporting System database, between 2005 and 2016",Does not use pharmacovigilance data,,,
+Signature-based approaches for informed drug repurposing: targeting CNS disorders,Does not use pharmacovigilance data,,,
+SMILE: a feature-based temporal abstraction framework for event-interval sequence classification,Does not use pharmacovigilance data,,,
+Smoothing dense spaces for improved relation extraction between drugs and adverse reactions,Does not use pharmacovigilance data,,,
+Social media as a catalyst in the advancement of pharmacovigilance,Does not use pharmacovigilance data,,,
+SOCIAL MEDIA MINING SHARED TASK WORKSHOP.,Does not use pharmacovigilance data,,,
+Social media surveillance for perceived therapeutic effects of cannabidiol (CBD) products,Does not use pharmacovigilance data,,,
+Strategies for serum chemokine/cytokine assessment as biomarkers of therapeutic response in HCV patients as a prototype to monitor immunotherapy of infectious diseases,Does not use pharmacovigilance data,,,
+SubGE-DDI: A new prediction model for drug-drug interaction established through biomedical texts and drug-pairs knowledge subgraph enhancement.,Does not use pharmacovigilance data,,,
+"Surveillance of adverse events after the first trivalent inactivated influenza vaccine produced in mammalian cell culture (Flucelvax®) reported to the Vaccine Adverse Event Reporting System (VAERS), United States, 2013-2015",Does not use pharmacovigilance data,,,
+"Surveillance of adverse events following immunization of 13-valent pneumococcal conjugate vaccine among infants, in Zhejiang province, China",Does not use pharmacovigilance data,,,
+Systemic Arterial Stiffness and Choroidal Microvascular Insufficiency on the Structural Progression of Normal Tension Glaucoma,"Does not use pharmacovigilance data, Does not use data mining",,,
+Systems Drug Design for Muscle Invasive Bladder Cancer and Advanced Bladder Cancer by Genome-Wide Microarray Data and Deep Learning Method with Drug Design Specifications,Does not use pharmacovigilance data,,,
+Systems Pharmacological Analysis of Drugs Inducing Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis,Does not use pharmacovigilance data,,,
+Target Adverse Event Profiles for Predictive Safety in the Postmarket Setting,Does not use official bases,,,
+"Text mining for disease surveillance in veterinary clinical data: part two, training computers to identify features in clinical text","Does not use pharmacovigilance data, Does not use data mining",,,
+The characteristics and regularities of cardiac adverse drug reactions induced by Chinese materia medica: A bibliometric research and association rules analysis,Does not use pharmacovigilance data,,,
+The Chemical Property Position of Bedaquiline Construed by a Chemical Global Positioning System-Natural Product,Does not use official bases,,,
+The class imbalance problem detecting adverse drug reactions in electronic health records,Does not use pharmacovigilance data,,,
+The impact of drug error reduction software on preventing harmful adverse drug events in England: a retrospective database study,"Does not use pharmacovigilance data, Does not use data mining",,,
+The impact of regulation changes in the spontaneous reporting system for vaccines on reporting trends and signal detection in Japan,Uses vaccine data,,,
+"The Next Generation of Drug Safety Science: Coupling Detection, Corroboration, and Validation to Discover Novel Drug Effects and Drug-Drug Interactions.",Theoretical study,,,
+The side effect profile of Clozapine in real world data of three large mental health hospitals,"Theoretical study, Does not use pharmacovigilance data, Does not use data mining",,,
+The Use of Text Mining to Obtain a Historical Overview of Research on Therapeutic Drug Monitoring,Does not use official bases,,,
+"The Use of Traditional, Complementary, and Integrative Medicine in Cancer: Data-Mining Study of 1 Million Web-Based Posts from Health Forums and Social Media Platforms",Does not use pharmacovigilance data,,,
+The voice of drug consumers: Online textual review analysis using structural topic model,"Does not use pharmacovigilance data, Does not use data mining, Review article",,,
+Thromboembolic events after Ad.26.COV2.S COVID-19 vaccine: Reports to the Vaccine Adverse Event Reporting System,Uses vaccine data,,,
+Toward an Ethical Framework for the Text Mining of Social Media for Health Research: A Systematic Review.,Review article,,,
+Towards the Application of Machine Learning in Emergency Informatics,"Does not use pharmacovigilance data, Does not use data mining",,,
+Toxicity spectrum of immunotherapy in advanced lung cancer: A safety analysis from clinical trials and a pharmacovigilance system,Does not use pharmacovigilance data,,,
+Traditional Chinese Medicine Is Associated with Reduced Risk of Readmission in Rheumatoid Arthritis Patients with Anemia: A Retrospective Cohort Study,Does not use pharmacovigilance data,,,
+Translational Biomedical Informatics and Pharmacometrics Approaches in the Drug Interactions Research.,"Theoretical study, Review article",,,
+Translational High-Dimensional Drug Interaction Discovery and Validation Using Health Record Databases and Pharmacokinetics Models,"Does not use pharmacovigilance data, Does not use data mining",,,
+Tree-based data mining for safety assessment of first COVID-19 booster doses in the Vaccine Safety Datalink,Uses vaccine data,,,
+Tree-based scan statistic - Application in manufacturing-related safety signal detection,Does not use pharmacovigilance data,,,
+Trivalent Influenza Vaccine Adverse Event Analysis Based On MedDRA System Organ Classes Using VAERS Data.,Uses vaccine data,,,
+"TwiMed: Twitter and PubMed comparable corpus of drugs, diseases, symptoms, and their relations",Does not use pharmacovigilance data,,,
+Use of One-minute Sit-to-stand Test to Predict Functional Exercise Capacity in Patients With Congenital Heart Disease,Does not use pharmacovigilance data,,,
+Users’ Reactions to Announced Vaccines against COVID-19 before Marketing in France: Analysis of Twitter Posts,"Does not use pharmacovigilance data, Does not use data mining",,,
+Uses of pharmacovigilance databases: An overview,"Does not use pharmacovigilance data, Does not use data mining, Review article",,,
+Using natural language processing to characterize and predict homeopathic product-associated adverse events in consumer reviews: comparison to reports to FDA Adverse Event Reporting System (FAERS),Review article,,,
+Using random forest and decision tree models for a new vehicle prediction approach in computational toxicology,Does not use pharmacovigilance data,,,
