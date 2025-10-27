@@ -1,7 +1,7 @@
 # Articles Included in the Scoping Review
 
-This folder contains PDFs of the articles used for the academic scoping review.
-All copyrights belong to the original authors and corresponding journals.
+This folder contains the CSV file with the article data used in the academic scoping review.
+All copyrights belong to the original authors and the corresponding journals.
 The PDFs here are provided **for academic and reference purposes only**.
 
 ---
