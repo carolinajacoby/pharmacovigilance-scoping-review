@@ -1,0 +1,974 @@
+article_id,technique,source_col
+1,Information Component,disproportionality_techniques
+1,Proportional Reporting Ratio,disproportionality_techniques
+1,Reporting Odds Ratio,disproportionality_techniques
+2,Reporting Odds Ratio,disproportionality_techniques
+3,Empirical Bayes Geometric Mean,disproportionality_techniques
+3,Information Component,disproportionality_techniques
+3,Proportional Reporting Ratio,disproportionality_techniques
+3,Reporting Odds Ratio,disproportionality_techniques
+4,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+4,Information Component,disproportionality_techniques
+4,Reporting Odds Ratio,disproportionality_techniques
+5,Information Component,disproportionality_techniques
+5,Proportional Reporting Ratio,disproportionality_techniques
+6,Information Component,disproportionality_techniques
+7,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+7,Empirical Bayes Geometric Mean,disproportionality_techniques
+7,Information Component,disproportionality_techniques
+7,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+7,Proportional Reporting Ratio,disproportionality_techniques
+7,Reporting Odds Ratio,disproportionality_techniques
+8,Reporting Odds Ratio,disproportionality_techniques
+8,Proportional Reporting Ratio,disproportionality_techniques
+8,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+8,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+9,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+9,Information Component,disproportionality_techniques
+9,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+9,Proportional Reporting Ratio,disproportionality_techniques
+9,Reporting Odds Ratio,disproportionality_techniques
+10,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+10,Empirical Bayes Geometric Mean,disproportionality_techniques
+10,Information Component,disproportionality_techniques
+10,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+10,Proportional Reporting Ratio,disproportionality_techniques
+10,Reporting Odds Ratio,disproportionality_techniques
+11,Proportional Reporting Ratio,disproportionality_techniques
+11,Reporting Odds Ratio,disproportionality_techniques
+12,Case/non-case analysis,disproportionality_techniques
+12,Reporting Odds Ratio,disproportionality_techniques
+13,Empirical Bayes Geometric Mean,disproportionality_techniques
+13,Information Component,disproportionality_techniques
+13,Proportional Reporting Ratio,disproportionality_techniques
+13,Reporting Odds Ratio,disproportionality_techniques
+14,Information Component,disproportionality_techniques
+14,Reporting Odds Ratio,disproportionality_techniques
+15,Information Component,disproportionality_techniques
+15,Proportional Reporting Ratio,disproportionality_techniques
+15,Reporting Odds Ratio,disproportionality_techniques
+16,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+16,Information Component,disproportionality_techniques
+16,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+16,Proportional Reporting Ratio,disproportionality_techniques
+16,Reporting Odds Ratio,disproportionality_techniques
+17,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+17,Empirical Bayes Geometric Mean,disproportionality_techniques
+17,Proportional Reporting Ratio,disproportionality_techniques
+17,Reporting Odds Ratio,disproportionality_techniques
+18,Proportional Reporting Ratio,disproportionality_techniques
+19,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+19,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+19,Proportional Reporting Ratio,disproportionality_techniques
+19,Reporting Odds Ratio,disproportionality_techniques
+20,Proportional Reporting Ratio,disproportionality_techniques
+20,Reporting Odds Ratio,disproportionality_techniques
+21,Empirical Bayes Geometric Mean,disproportionality_techniques
+21,Proportional Reporting Ratio,disproportionality_techniques
+21,Reporting Odds Ratio,disproportionality_techniques
+21,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+21,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+22,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+22,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+22,Proportional Reporting Ratio,disproportionality_techniques
+22,Reporting Odds Ratio,disproportionality_techniques
+23,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+23,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+23,Proportional Reporting Ratio,disproportionality_techniques
+23,Reporting Odds Ratio,disproportionality_techniques
+24,Information Component,disproportionality_techniques
+24,Reporting Odds Ratio,disproportionality_techniques
+25,Reporting Odds Ratio,disproportionality_techniques
+26,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+26,Empirical Bayes Geometric Mean,disproportionality_techniques
+26,Proportional Reporting Ratio,disproportionality_techniques
+26,Reporting Odds Ratio,disproportionality_techniques
+27,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+27,Proportional Reporting Ratio,disproportionality_techniques
+27,Reporting Odds Ratio,disproportionality_techniques
+28,Information Component,disproportionality_techniques
+28,Proportional Reporting Ratio,disproportionality_techniques
+28,Reporting Odds Ratio,disproportionality_techniques
+29,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+29,Empirical Bayes Geometric Mean,disproportionality_techniques
+29,Proportional Reporting Ratio,disproportionality_techniques
+29,Reporting Odds Ratio,disproportionality_techniques
+30,Information Component,disproportionality_techniques
+30,Reporting Odds Ratio,disproportionality_techniques
+31,Reporting Odds Ratio,disproportionality_techniques
+32,Case-Only Odds Ratio (OR) Analysis,disproportionality_techniques
+32,Likelihood Ratio Test,disproportionality_techniques
+33,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+33,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+33,Proportional Reporting Ratio,disproportionality_techniques
+33,Reporting Odds Ratio,disproportionality_techniques
+34,Reporting Odds Ratio,disproportionality_techniques
+35,MHRA Method,disproportionality_techniques
+35,Proportional Reporting Ratio,disproportionality_techniques
+35,Reporting Odds Ratio,disproportionality_techniques
+36,Proportional Reporting Ratio,disproportionality_techniques
+36,Reporting Odds Ratio,disproportionality_techniques
+37,Combination Risk Ratio Model (CRR),disproportionality_techniques
+37,Shrinkage Measure Model,disproportionality_techniques
+38,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+38,Empirical Bayes Geometric Mean,disproportionality_techniques
+38,Information Component,disproportionality_techniques
+38,Proportional Reporting Ratio,disproportionality_techniques
+38,Reporting Odds Ratio,disproportionality_techniques
+39,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+39,Reporting Odds Ratio,disproportionality_techniques
+40,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+40,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+40,Proportional Reporting Ratio,disproportionality_techniques
+40,Reporting Odds Ratio,disproportionality_techniques
+41,Information Component,disproportionality_techniques
+41,Proportional Reporting Ratio,disproportionality_techniques
+41,Reporting Odds Ratio,disproportionality_techniques
+41,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+41,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+41,Empirical Bayes Geometric Mean,disproportionality_techniques
+42,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+42,Information Component,disproportionality_techniques
+42,Case-Only Odds Ratio (OR) Analysis,disproportionality_techniques
+43,Information Component,disproportionality_techniques
+43,Proportional Reporting Ratio,disproportionality_techniques
+43,Reporting Odds Ratio,disproportionality_techniques
+43,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+44,Information Component,disproportionality_techniques
+44,Proportional Reporting Ratio,disproportionality_techniques
+45,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+45,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+45,Proportional Reporting Ratio,disproportionality_techniques
+45,Reporting Odds Ratio,disproportionality_techniques
+46,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+46,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+46,Proportional Reporting Ratio,disproportionality_techniques
+46,Reporting Odds Ratio,disproportionality_techniques
+47,Reporting Odds Ratio,disproportionality_techniques
+47,Proportional Reporting Ratio,disproportionality_techniques
+48,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+48,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+48,Proportional Reporting Ratio,disproportionality_techniques
+48,Reporting Odds Ratio,disproportionality_techniques
+49,Empirical Bayes Geometric Mean,disproportionality_techniques
+49,Relative Reporting Ratio,disproportionality_techniques
+50,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+50,Empirical Bayes Geometric Mean,disproportionality_techniques
+50,Information Component,disproportionality_techniques
+50,Proportional Reporting Ratio,disproportionality_techniques
+50,Reporting Odds Ratio,disproportionality_techniques
+51,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+51,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+51,Proportional Reporting Ratio,disproportionality_techniques
+51,Reporting Odds Ratio,disproportionality_techniques
+52,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+52,Empirical Bayes Geometric Mean,disproportionality_techniques
+52,Information Component,disproportionality_techniques
+52,Proportional Reporting Ratio,disproportionality_techniques
+52,Reporting Odds Ratio,disproportionality_techniques
+53,Reporting Odds Ratio,disproportionality_techniques
+54,MHRA Method,disproportionality_techniques
+54,Reporting Odds Ratio,disproportionality_techniques
+54,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+54,Proportional Reporting Ratio,disproportionality_techniques
+55,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+55,Information Component,disproportionality_techniques
+55,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+55,Reporting Odds Ratio,disproportionality_techniques
+56,Proportional Reporting Ratio,disproportionality_techniques
+56,Reporting Odds Ratio,disproportionality_techniques
+57,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+57,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+57,Proportional Reporting Ratio,disproportionality_techniques
+57,Reporting Odds Ratio,disproportionality_techniques
+57,Information Component,disproportionality_techniques
+58,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+58,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+58,Reporting Odds Ratio,disproportionality_techniques
+58,Proportional Reporting Ratio,disproportionality_techniques
+59,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+59,Proportional Reporting Ratio,disproportionality_techniques
+59,Reporting Odds Ratio,disproportionality_techniques
+59,Information Component,disproportionality_techniques
+60,Reporting Odds Ratio,disproportionality_techniques
+61,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+61,Reporting Odds Ratio,disproportionality_techniques
+61,Proportional Reporting Ratio,disproportionality_techniques
+61,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+62,Proportional Reporting Ratio,disproportionality_techniques
+62,Reporting Odds Ratio,disproportionality_techniques
+62,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+62,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+63,Information Component,disproportionality_techniques
+63,Reporting Odds Ratio,disproportionality_techniques
+63,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+64,Information Component,disproportionality_techniques
+64,Reporting Odds Ratio,disproportionality_techniques
+65,Information Component,disproportionality_techniques
+65,Proportional Reporting Ratio,disproportionality_techniques
+65,Reporting Odds Ratio,disproportionality_techniques
+65,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+66,Information Component,disproportionality_techniques
+67,Information Component,disproportionality_techniques
+67,Proportional Reporting Ratio,disproportionality_techniques
+67,Reporting Odds Ratio,disproportionality_techniques
+68,MHRA Method,disproportionality_techniques
+68,Reporting Odds Ratio,disproportionality_techniques
+69,Information Component,disproportionality_techniques
+69,Proportional Reporting Ratio,disproportionality_techniques
+69,Reporting Odds Ratio,disproportionality_techniques
+70,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+70,Reporting Odds Ratio,disproportionality_techniques
+70,Proportional Reporting Ratio,disproportionality_techniques
+70,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+70,Information Component,disproportionality_techniques
+71,Not used,disproportionality_techniques
+72,Chi-square Statistics Model,disproportionality_techniques
+72,Shrinkage Measure Model,disproportionality_techniques
+72,Proportional Reporting Ratio,disproportionality_techniques
+73,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+73,Proportional Reporting Ratio,disproportionality_techniques
+73,Reporting Odds Ratio,disproportionality_techniques
+73,Information Component,disproportionality_techniques
+74,Empirical Bayes Geometric Mean,disproportionality_techniques
+74,Information Component,disproportionality_techniques
+74,Proportional Reporting Ratio,disproportionality_techniques
+74,Reporting Odds Ratio,disproportionality_techniques
+75,Reporting Odds Ratio,disproportionality_techniques
+75,Proportional Reporting Ratio,disproportionality_techniques
+76,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+76,Reporting Odds Ratio,disproportionality_techniques
+76,Proportional Reporting Ratio,disproportionality_techniques
+77,Proportional Reporting Ratio,disproportionality_techniques
+77,Reporting Odds Ratio,disproportionality_techniques
+78,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+78,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+78,Proportional Reporting Ratio,disproportionality_techniques
+78,Reporting Odds Ratio,disproportionality_techniques
+79,Proportional Reporting Ratio,disproportionality_techniques
+80,Reporting Odds Ratio,disproportionality_techniques
+81,Empirical Bayes Geometric Mean,disproportionality_techniques
+81,Information Component,disproportionality_techniques
+81,Proportional Reporting Ratio,disproportionality_techniques
+81,Reporting Odds Ratio,disproportionality_techniques
+81,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+82,Reporting Odds Ratio,disproportionality_techniques
+83,Proportional Reporting Ratio,disproportionality_techniques
+84,Proportional Reporting Ratio,disproportionality_techniques
+84,Reporting Odds Ratio,disproportionality_techniques
+85,Empirical Bayes Geometric Mean,disproportionality_techniques
+85,MHRA Method,disproportionality_techniques
+85,Proportional Reporting Ratio,disproportionality_techniques
+85,Reporting Odds Ratio,disproportionality_techniques
+86,Reporting Odds Ratio,disproportionality_techniques
+87,Reporting Odds Ratio,disproportionality_techniques
+88,Reporting Odds Ratio,disproportionality_techniques
+88,Likelihood Ratio Test,disproportionality_techniques
+89,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+89,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+89,Proportional Reporting Ratio,disproportionality_techniques
+89,Reporting Odds Ratio,disproportionality_techniques
+90,Empirical Bayes Geometric Mean,disproportionality_techniques
+90,Information Component,disproportionality_techniques
+90,Proportional Reporting Ratio,disproportionality_techniques
+90,Reporting Odds Ratio,disproportionality_techniques
+91,MHRA Method,disproportionality_techniques
+91,Reporting Odds Ratio,disproportionality_techniques
+92,Reporting Odds Ratio,disproportionality_techniques
+93,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+93,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+93,Proportional Reporting Ratio,disproportionality_techniques
+93,Reporting Odds Ratio,disproportionality_techniques
+94,Reporting Odds Ratio,disproportionality_techniques
+95,Proportional Reporting Ratio,disproportionality_techniques
+96,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+96,Proportional Reporting Ratio,disproportionality_techniques
+96,Reporting Odds Ratio,disproportionality_techniques
+96,Information Component,disproportionality_techniques
+97,Empirical Bayes Geometric Mean,disproportionality_techniques
+97,Information Component,disproportionality_techniques
+97,Reporting Odds Ratio,disproportionality_techniques
+97,Proportional Reporting Ratio,disproportionality_techniques
+98,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+98,Proportional Reporting Ratio,disproportionality_techniques
+98,Reporting Odds Ratio,disproportionality_techniques
+99,Reporting Odds Ratio,disproportionality_techniques
+100,Reporting Odds Ratio,disproportionality_techniques
+100,Proportional Reporting Ratio,disproportionality_techniques
+101,Information Component,disproportionality_techniques
+101,Proportional Reporting Ratio,disproportionality_techniques
+101,Reporting Odds Ratio,disproportionality_techniques
+102,Information Component,disproportionality_techniques
+102,Proportional Reporting Ratio,disproportionality_techniques
+102,Reporting Odds Ratio,disproportionality_techniques
+103,Empirical Bayes Geometric Mean,disproportionality_techniques
+103,Information Component,disproportionality_techniques
+103,Proportional Reporting Ratio,disproportionality_techniques
+103,Reporting Odds Ratio,disproportionality_techniques
+104,Case/non-case analysis,disproportionality_techniques
+104,Reporting Odds Ratio,disproportionality_techniques
+104,Information Component,disproportionality_techniques
+105,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+105,Reporting Odds Ratio,disproportionality_techniques
+105,Information Component,disproportionality_techniques
+106,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+106,Reporting Odds Ratio,disproportionality_techniques
+106,Information Component,disproportionality_techniques
+107,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+107,Empirical Bayes Geometric Mean,disproportionality_techniques
+107,Proportional Reporting Ratio,disproportionality_techniques
+107,Reporting Odds Ratio,disproportionality_techniques
+108,Reporting Odds Ratio,disproportionality_techniques
+109,Reporting Odds Ratio,disproportionality_techniques
+110,Reporting Odds Ratio,disproportionality_techniques
+110,Case/non-case analysis,disproportionality_techniques
+111,Proportional Reporting Ratio,disproportionality_techniques
+111,Reporting Odds Ratio,disproportionality_techniques
+112,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+112,Proportional Reporting Ratio,disproportionality_techniques
+112,Reporting Odds Ratio,disproportionality_techniques
+113,Proportional Reporting Ratio,disproportionality_techniques
+113,Reporting Odds Ratio,disproportionality_techniques
+114,Reporting Odds Ratio,disproportionality_techniques
+115,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+115,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+115,Proportional Reporting Ratio,disproportionality_techniques
+115,Reporting Odds Ratio,disproportionality_techniques
+116,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+116,Empirical Bayes Geometric Mean,disproportionality_techniques
+116,Proportional Reporting Ratio,disproportionality_techniques
+116,Reporting Odds Ratio,disproportionality_techniques
+117,Case-Only Odds Ratio (OR) Analysis,disproportionality_techniques
+118,Case-Only Odds Ratio (OR) Analysis,disproportionality_techniques
+118,Case/non-case analysis,disproportionality_techniques
+119,Reporting Odds Ratio,disproportionality_techniques
+119,Proportional Reporting Ratio,disproportionality_techniques
+119,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+119,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+120,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+120,Proportional Reporting Ratio,disproportionality_techniques
+120,Reporting Odds Ratio,disproportionality_techniques
+120,Information Component,disproportionality_techniques
+121,MHRA Method,disproportionality_techniques
+121,Reporting Odds Ratio,disproportionality_techniques
+121,Proportional Reporting Ratio,disproportionality_techniques
+122,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+122,MHRA Method,disproportionality_techniques
+122,Proportional Reporting Ratio,disproportionality_techniques
+122,Reporting Odds Ratio,disproportionality_techniques
+123,Information Component,disproportionality_techniques
+123,Reporting Odds Ratio,disproportionality_techniques
+124,Information Component,disproportionality_techniques
+124,Reporting Odds Ratio,disproportionality_techniques
+125,Information Component,disproportionality_techniques
+125,Proportional Reporting Ratio,disproportionality_techniques
+125,Case-Only Odds Ratio (OR) Analysis,disproportionality_techniques
+126,Reporting Odds Ratio,disproportionality_techniques
+127,Proportional Reporting Ratio,disproportionality_techniques
+127,Reporting Odds Ratio,disproportionality_techniques
+128,Information Component,disproportionality_techniques
+128,Reporting Odds Ratio,disproportionality_techniques
+129,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+129,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+129,Proportional Reporting Ratio,disproportionality_techniques
+129,Reporting Odds Ratio,disproportionality_techniques
+130,Empirical Bayes Geometric Mean,disproportionality_techniques
+130,Proportional Reporting Ratio,disproportionality_techniques
+130,Reporting Odds Ratio,disproportionality_techniques
+130,Information Component,disproportionality_techniques
+131,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+131,Empirical Bayes Geometric Mean,disproportionality_techniques
+131,Proportional Reporting Ratio,disproportionality_techniques
+131,Reporting Odds Ratio,disproportionality_techniques
+132,Information Component,disproportionality_techniques
+132,Reporting Odds Ratio,disproportionality_techniques
+133,Information Component,disproportionality_techniques
+133,Reporting Odds Ratio,disproportionality_techniques
+134,Empirical Bayes Geometric Mean,disproportionality_techniques
+134,Information Component,disproportionality_techniques
+134,Proportional Reporting Ratio,disproportionality_techniques
+134,Reporting Odds Ratio,disproportionality_techniques
+135,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+135,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+135,Proportional Reporting Ratio,disproportionality_techniques
+135,Reporting Odds Ratio,disproportionality_techniques
+136,Proportional Reporting Ratio,disproportionality_techniques
+136,Reporting Odds Ratio,disproportionality_techniques
+137,Proportional Reporting Ratio,disproportionality_techniques
+137,Reporting Odds Ratio,disproportionality_techniques
+137,Shrinkage Measure Model,disproportionality_techniques
+138,Empirical Bayes Geometric Mean,disproportionality_techniques
+138,Information Component,disproportionality_techniques
+138,Reporting Odds Ratio,disproportionality_techniques
+138,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+139,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+139,Proportional Reporting Ratio,disproportionality_techniques
+139,Reporting Odds Ratio,disproportionality_techniques
+139,Empirical Bayes Geometric Mean,disproportionality_techniques
+139,Information Component,disproportionality_techniques
+140,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+140,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+140,Proportional Reporting Ratio,disproportionality_techniques
+140,Reporting Odds Ratio,disproportionality_techniques
+140,Information Component,disproportionality_techniques
+141,Reporting Odds Ratio,disproportionality_techniques
+142,sROR (compressed reporting odds ratio),disproportionality_techniques
+143,Information Component,disproportionality_techniques
+143,Proportional Reporting Ratio,disproportionality_techniques
+143,Reporting Odds Ratio,disproportionality_techniques
+143,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+143,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+144,Information Component,disproportionality_techniques
+144,Reporting Odds Ratio,disproportionality_techniques
+145,Reporting Odds Ratio,disproportionality_techniques
+146,Empirical Bayes Geometric Mean,disproportionality_techniques
+146,Information Component,disproportionality_techniques
+146,Reporting Odds Ratio,disproportionality_techniques
+147,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+147,Gamma Poisson Shrinker (GPS),disproportionality_techniques
+147,Proportional Reporting Ratio,disproportionality_techniques
+147,Reporting Odds Ratio,disproportionality_techniques
+148,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+148,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+148,Proportional Reporting Ratio,disproportionality_techniques
+148,Reporting Odds Ratio,disproportionality_techniques
+149,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+149,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+149,Proportional Reporting Ratio,disproportionality_techniques
+149,Reporting Odds Ratio,disproportionality_techniques
+149,Information Component,disproportionality_techniques
+150,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+150,Proportional Reporting Ratio,disproportionality_techniques
+150,Reporting Odds Ratio,disproportionality_techniques
+151,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+151,Empirical Bayes Geometric Mean,disproportionality_techniques
+151,Proportional Reporting Ratio,disproportionality_techniques
+151,Reporting Odds Ratio,disproportionality_techniques
+152,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+152,Reporting Odds Ratio,disproportionality_techniques
+153,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+153,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+153,Proportional Reporting Ratio,disproportionality_techniques
+153,Reporting Odds Ratio,disproportionality_techniques
+154,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+154,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+154,Proportional Reporting Ratio,disproportionality_techniques
+154,Reporting Odds Ratio,disproportionality_techniques
+154,Information Component,disproportionality_techniques
+155,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+155,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+155,Proportional Reporting Ratio,disproportionality_techniques
+155,Reporting Odds Ratio,disproportionality_techniques
+155,Information Component,disproportionality_techniques
+156,sROR (compressed reporting odds ratio),disproportionality_techniques
+156,Information Component,disproportionality_techniques
+157,Reporting Odds Ratio,disproportionality_techniques
+158,Reporting Odds Ratio,disproportionality_techniques
+159,Reporting Odds Ratio,disproportionality_techniques
+159,Proportional Reporting Ratio,disproportionality_techniques
+159,Information Component,disproportionality_techniques
+159,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+160,Reporting Odds Ratio,disproportionality_techniques
+160,Proportional Reporting Ratio,disproportionality_techniques
+160,Bayesian Confidence Propagation Neural Network,disproportionality_techniques
+160,Multi-item Gamma Poisson Shrinker,disproportionality_techniques
+160,Information Component,disproportionality_techniques
+161,Case/non-case analysis,disproportionality_techniques
+161,Reporting Odds Ratio,disproportionality_techniques
+162,Not used,disproportionality_techniques
+1,Not used,data_mining_algorithms_techiniques
+2,Not used,data_mining_algorithms_techiniques
+3,Not used,data_mining_algorithms_techiniques
+4,Not used,data_mining_algorithms_techiniques
+5,Not used,data_mining_algorithms_techiniques
+6,Not used,data_mining_algorithms_techiniques
+7,Not used,data_mining_algorithms_techiniques
+8,Not used,data_mining_algorithms_techiniques
+9,Not used,data_mining_algorithms_techiniques
+10,Not used,data_mining_algorithms_techiniques
+11,Not used,data_mining_algorithms_techiniques
+12,Not used,data_mining_algorithms_techiniques
+13,Not used,data_mining_algorithms_techiniques
+14,Not used,data_mining_algorithms_techiniques
+15,Not used,data_mining_algorithms_techiniques
+16,Not used,data_mining_algorithms_techiniques
+17,Not used,data_mining_algorithms_techiniques
+18,Association Rule Mining (ARM) – Apriori,data_mining_algorithms_techiniques
+19,Not used,data_mining_algorithms_techiniques
+20,Not used,data_mining_algorithms_techiniques
+21,Not used,data_mining_algorithms_techiniques
+22,Not used,data_mining_algorithms_techiniques
+23,Not used,data_mining_algorithms_techiniques
+24,Not used,data_mining_algorithms_techiniques
+25,Not used,data_mining_algorithms_techiniques
+26,Not used,data_mining_algorithms_techiniques
+27,Not used,data_mining_algorithms_techiniques
+28,Not used,data_mining_algorithms_techiniques
+29,Not used,data_mining_algorithms_techiniques
+30,Association Rule Mining (ARM) – Apriori,data_mining_algorithms_techiniques
+31,Not used,data_mining_algorithms_techiniques
+32,Tree-based Scan Statistic (TreeScan),data_mining_algorithms_techiniques
+32,Logistic Regression,data_mining_algorithms_techiniques
+33,Not used,data_mining_algorithms_techiniques
+34,Not used,data_mining_algorithms_techiniques
+35,Not used,data_mining_algorithms_techiniques
+36,Not used,data_mining_algorithms_techiniques
+37,Not used,data_mining_algorithms_techiniques
+38,Not used,data_mining_algorithms_techiniques
+39,Not used,data_mining_algorithms_techiniques
+40,Not used,data_mining_algorithms_techiniques
+41,Not used,data_mining_algorithms_techiniques
+42,Not used,data_mining_algorithms_techiniques
+43,Not used,data_mining_algorithms_techiniques
+44,Not used,data_mining_algorithms_techiniques
+45,Not used,data_mining_algorithms_techiniques
+46,Not used,data_mining_algorithms_techiniques
+47,Not used,data_mining_algorithms_techiniques
+48,Not used,data_mining_algorithms_techiniques
+49,Network Analysis / Hierarchical Clustering Analysis,data_mining_algorithms_techiniques
+50,Not used,data_mining_algorithms_techiniques
+51,Not used,data_mining_algorithms_techiniques
+52,Not used,data_mining_algorithms_techiniques
+53,Not used,data_mining_algorithms_techiniques
+54,Not used,data_mining_algorithms_techiniques
+55,Not used,data_mining_algorithms_techiniques
+56,Not used,data_mining_algorithms_techiniques
+57,Not used,data_mining_algorithms_techiniques
+58,Not used,data_mining_algorithms_techiniques
+59,Not used,data_mining_algorithms_techiniques
+60,Not used,data_mining_algorithms_techiniques
+61,Not used,data_mining_algorithms_techiniques
+62,Not used,data_mining_algorithms_techiniques
+63,Not used,data_mining_algorithms_techiniques
+64,Logistic Regression,data_mining_algorithms_techiniques
+65,Logistic Regression,data_mining_algorithms_techiniques
+66,Logistic Regression,data_mining_algorithms_techiniques
+67,Not used,data_mining_algorithms_techiniques
+68,Not used,data_mining_algorithms_techiniques
+69,Not used,data_mining_algorithms_techiniques
+70,Not used,data_mining_algorithms_techiniques
+71,Association Rule Mining (ARM) – Apriori,data_mining_algorithms_techiniques
+72,Not used,data_mining_algorithms_techiniques
+73,Not used,data_mining_algorithms_techiniques
+74,Not used,data_mining_algorithms_techiniques
+75,Not used,data_mining_algorithms_techiniques
+76,Not used,data_mining_algorithms_techiniques
+77,Not used,data_mining_algorithms_techiniques
+78,Not used,data_mining_algorithms_techiniques
+79,Concomitant Medication Analysis,data_mining_algorithms_techiniques
+79,Molecular Data Integration,data_mining_algorithms_techiniques
+79,Receptor Agonism/Antagonism Cohort Analysis,data_mining_algorithms_techiniques
+80,Not used,data_mining_algorithms_techiniques
+81,Not used,data_mining_algorithms_techiniques
+82,Bootstrap Resampling,data_mining_algorithms_techiniques
+82,Logistic Regression,data_mining_algorithms_techiniques
+82,Prediction Model-based Algorithm,data_mining_algorithms_techiniques
+83,Decision Tree Analysis,data_mining_algorithms_techiniques
+83,Genetic Algorithm (GA),data_mining_algorithms_techiniques
+83,Multilabel Classification,data_mining_algorithms_techiniques
+83,Target Adverse-Event (TAE) Profile Analysis,data_mining_algorithms_techiniques
+84,Not used,data_mining_algorithms_techiniques
+85,Not used,data_mining_algorithms_techiniques
+86,Not used,data_mining_algorithms_techiniques
+87,KEGG Pathway Enrichment Analysis,data_mining_algorithms_techiniques
+87,Network Analysis / Hierarchical Clustering Analysis,data_mining_algorithms_techiniques
+87,Protein-Protein Interaction (PPI) Analysis,data_mining_algorithms_techiniques
+88,Logistic Regression,data_mining_algorithms_techiniques
+89,Not used,data_mining_algorithms_techiniques
+90,Not used,data_mining_algorithms_techiniques
+91,Not used,data_mining_algorithms_techiniques
+92,Association Rule Mining (ARM) – Apriori,data_mining_algorithms_techiniques
+92,Logistic Regression,data_mining_algorithms_techiniques
+93,Not used,data_mining_algorithms_techiniques
+94,Not used,data_mining_algorithms_techiniques
+95,Not used,data_mining_algorithms_techiniques
+96,Not used,data_mining_algorithms_techiniques
+97,Not used,data_mining_algorithms_techiniques
+98,Logistic Regression,data_mining_algorithms_techiniques
+99,Not used,data_mining_algorithms_techiniques
+100,Not used,data_mining_algorithms_techiniques
+101,Not used,data_mining_algorithms_techiniques
+102,Not used,data_mining_algorithms_techiniques
+103,Not used,data_mining_algorithms_techiniques
+104,Logistic Regression,data_mining_algorithms_techiniques
+105,Not used,data_mining_algorithms_techiniques
+106,Not used,data_mining_algorithms_techiniques
+107,Not used,data_mining_algorithms_techiniques
+108,Not used,data_mining_algorithms_techiniques
+109,Not used,data_mining_algorithms_techiniques
+110,Not used,data_mining_algorithms_techiniques
+111,Not used,data_mining_algorithms_techiniques
+112,Not used,data_mining_algorithms_techiniques
+113,Not used,data_mining_algorithms_techiniques
+114,Logistic Regression,data_mining_algorithms_techiniques
+115,Not used,data_mining_algorithms_techiniques
+116,Not used,data_mining_algorithms_techiniques
+117,Not used,data_mining_algorithms_techiniques
+118,Not used,data_mining_algorithms_techiniques
+119,Not used,data_mining_algorithms_techiniques
+120,Not used,data_mining_algorithms_techiniques
+121,Not used,data_mining_algorithms_techiniques
+122,Not used,data_mining_algorithms_techiniques
+123,Not used,data_mining_algorithms_techiniques
+124,Statistical Shrinkage Transformation,data_mining_algorithms_techiniques
+125,Not used,data_mining_algorithms_techiniques
+126,Not used,data_mining_algorithms_techiniques
+127,Not used,data_mining_algorithms_techiniques
+128,Not used,data_mining_algorithms_techiniques
+129,Not used,data_mining_algorithms_techiniques
+130,Not used,data_mining_algorithms_techiniques
+131,Not used,data_mining_algorithms_techiniques
+132,Not used,data_mining_algorithms_techiniques
+133,Not used,data_mining_algorithms_techiniques
+134,Not used,data_mining_algorithms_techiniques
+135,Not used,data_mining_algorithms_techiniques
+136,Logistic Regression,data_mining_algorithms_techiniques
+137,Not used,data_mining_algorithms_techiniques
+138,Not used,data_mining_algorithms_techiniques
+139,Not used,data_mining_algorithms_techiniques
+140,Not used,data_mining_algorithms_techiniques
+141,Not used,data_mining_algorithms_techiniques
+142,Not used,data_mining_algorithms_techiniques
+143,Not used,data_mining_algorithms_techiniques
+144,Not used,data_mining_algorithms_techiniques
+145,Not used,data_mining_algorithms_techiniques
+146,Not used,data_mining_algorithms_techiniques
+147,Not used,data_mining_algorithms_techiniques
+148,Not used,data_mining_algorithms_techiniques
+149,Not used,data_mining_algorithms_techiniques
+150,Not used,data_mining_algorithms_techiniques
+151,Not used,data_mining_algorithms_techiniques
+152,Not used,data_mining_algorithms_techiniques
+153,Not used,data_mining_algorithms_techiniques
+154,Not used,data_mining_algorithms_techiniques
+155,Not used,data_mining_algorithms_techiniques
+156,Not used,data_mining_algorithms_techiniques
+157,Not used,data_mining_algorithms_techiniques
+158,Not used,data_mining_algorithms_techiniques
+159,Not used,data_mining_algorithms_techiniques
+160,Not used,data_mining_algorithms_techiniques
+161,Not used,data_mining_algorithms_techiniques
+162,K-means,data_mining_algorithms_techiniques
+162,Hierarchical K-means (HK-means),data_mining_algorithms_techiniques
+162,Spectral Clustering,data_mining_algorithms_techiniques
+162,Gaussian Mixture Model (GMM),data_mining_algorithms_techiniques
+162,Isolation Forest (iF),data_mining_algorithms_techiniques
+162,Extended Isolation Forest (eiF),data_mining_algorithms_techiniques
+1,Chi-Square Test,other_techniques
+2,Chi-Square Test,other_techniques
+3,Descriptive Statistics,other_techniques
+4,Effect Size Calculation,other_techniques
+4,Funnel Plot,other_techniques
+5,Adverse Outcome Pathways (AOPs) Analysis,other_techniques
+5,Cross-Talk Analysis,other_techniques
+5,Pathway Functional Enrichment Analysis,other_techniques
+6,Co-report Analysis (Concurrent Drugs),other_techniques
+6,Geographic and Demographic Analysis,other_techniques
+7,Chi-Square Test,other_techniques
+7,Descriptive Statistics,other_techniques
+7,Fisher’s Exact Test,other_techniques
+7,Mann-Whitney U Test,other_techniques
+8,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+8,Serious Outcomes Rate,other_techniques
+9,Chi-Square Test,other_techniques
+9,Descriptive Statistics,other_techniques
+9,Fisher’s Exact Test,other_techniques
+9,Kruskal-Wallis Test,other_techniques
+9,Mann-Whitney U Test,other_techniques
+10,Chi-Square Test,other_techniques
+10,Kruskal-Wallis Test,other_techniques
+11,Chi-Square Test,other_techniques
+12,Bonferroni Adjustment,other_techniques
+12,Chi-Square Test,other_techniques
+12,Propensity Score Matching (PSM),other_techniques
+13,Chi-Square Test,other_techniques
+13,Descriptive Statistics,other_techniques
+14,Austin Bradford-Hill Criteria,other_techniques
+14,Logistic Regression,other_techniques
+14,Receptor Occupancy Calculation / pKi,other_techniques
+15,Chi-Square Test,other_techniques
+16,Chi-Square Test,other_techniques
+16,False Discovery Rate (FDR),other_techniques
+16,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+16,Weibull Shape Parameter (WSP) Test,other_techniques
+17,Not used,other_techniques
+18,Confidence,other_techniques
+18,Lift,other_techniques
+18,Support,other_techniques
+19,Hospitalization Rate,other_techniques
+19,Survival Analysis / Mortality Rate,other_techniques
+19,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+20,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+21,Mann-Whitney U Test,other_techniques
+21,Survival Analysis / Mortality Rate,other_techniques
+21,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+22,Descriptive Statistics,other_techniques
+22,Serious Outcomes Rate,other_techniques
+22,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+23,Descriptive Statistics,other_techniques
+23,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+24,Event Sequence Symmetry Analysis (ESSA),other_techniques
+24,Sequence Ratio (SR) / Adjusted Sequence Ratio,other_techniques
+25,Geographic and Demographic Analysis,other_techniques
+26,Descriptive Statistics,other_techniques
+27,Descriptive Statistics,other_techniques
+28,Causality Analysis (WHO-UMC),other_techniques
+28,Logistic Regression,other_techniques
+28,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+29,Descriptive Statistics,other_techniques
+30,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+30,Weibull Shape Parameter (WSP) Test,other_techniques
+31,Chi-Square Test,other_techniques
+32,McNemar Test,other_techniques
+32,Wald Test,other_techniques
+33,Chi-Square Test,other_techniques
+33,Dunn Index,other_techniques
+33,Fisher’s Exact Test,other_techniques
+33,Kruskal-Wallis Test,other_techniques
+33,Survival Analysis / Mortality Rate,other_techniques
+33,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+34,Chi-Square Test,other_techniques
+35,Descriptive Statistics,other_techniques
+36,Descriptive Statistics,other_techniques
+36,In Silico Computational Analysis / Molecular Docking,other_techniques
+37,Cohen Kappa Coefficient,other_techniques
+37,Chi-Square Test,other_techniques
+38,Not used,other_techniques
+39,Descriptive Statistics,other_techniques
+40,Descriptive Statistics,other_techniques
+41,Chi-Square Test,other_techniques
+41,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+42,Descriptive Statistics,other_techniques
+43,Not used,other_techniques
+44,Chi-Square Test,other_techniques
+44,Descriptive Statistics,other_techniques
+45,Descriptive Statistics,other_techniques
+45,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+46,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+47,Chi-Square Test,other_techniques
+47,Descriptive Statistics,other_techniques
+48,Chi-Square Test,other_techniques
+48,Kruskal-Wallis Test,other_techniques
+48,Logistic Regression,other_techniques
+48,Mann-Whitney U Test,other_techniques
+49,Jaccard Distance Calculation,other_techniques
+49,RxNorm Normalization,other_techniques
+50,Descriptive Statistics,other_techniques
+51,Descriptive Statistics,other_techniques
+51,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+52,Chi-Square Test,other_techniques
+52,Descriptive Statistics,other_techniques
+53,Chi-Square Test,other_techniques
+53,Descriptive Statistics,other_techniques
+54,Descriptive Statistics,other_techniques
+54,Chi-Square Test,other_techniques
+55,Chi-Square Test,other_techniques
+55,Descriptive Statistics,other_techniques
+55,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+56,Descriptive Statistics,other_techniques
+56,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+56,Volcano Plot,other_techniques
+57,Descriptive Statistics,other_techniques
+57,Chi-Square Test,other_techniques
+58,Descriptive Statistics,other_techniques
+58,Kaplan-Meier method,other_techniques
+58,Log-rank test,other_techniques
+58,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+58,Weibull Shape Parameter (WSP) Test,other_techniques
+59,Descriptive Statistics,other_techniques
+60,Descriptive Statistics,other_techniques
+61,Descriptive Statistics,other_techniques
+62,Descriptive Statistics,other_techniques
+62,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+63,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+63,Weibull Shape Parameter (WSP) Test,other_techniques
+63,Wilcoxon Rank Sum Test,other_techniques
+63,Kaplan-Meier method,other_techniques
+64,Not used,other_techniques
+65,Descriptive Statistics,other_techniques
+66,Descriptive Statistics,other_techniques
+67,Chi-Square Test,other_techniques
+67,Descriptive Statistics,other_techniques
+68,Not used,other_techniques
+69,Not used,other_techniques
+70,Chi-Square Test,other_techniques
+70,Fisher’s Exact Test,other_techniques
+70,Mann-Whitney U Test,other_techniques
+70,Survival Analysis / Mortality Rate,other_techniques
+70,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+70,Descriptive Statistics,other_techniques
+71,Additive Interaction Model (AI),other_techniques
+71,Combination Risk Ratio (CR),other_techniques
+71,Multiplicative Interaction Model (MI),other_techniques
+72,Additive Interaction Model (AI),other_techniques
+72,Cohen Kappa Coefficient,other_techniques
+72,Combination Risk Ratio (CR),other_techniques
+72,Multiplicative Interaction Model (MI),other_techniques
+73,Descriptive Statistics,other_techniques
+74,Logistic Regression,other_techniques
+74,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+74,Weibull Shape Parameter (WSP) Test,other_techniques
+75,Descriptive Statistics,other_techniques
+75,Chi-Square Test,other_techniques
+76,Descriptive Statistics,other_techniques
+77,Chi-Square Test,other_techniques
+77,Descriptive Statistics,other_techniques
+78,ANOVA,other_techniques
+78,Spearman Correlation Coefficient,other_techniques
+78,Fisher’s Exact Test,other_techniques
+79,Descriptive Statistics,other_techniques
+80,Descriptive Statistics,other_techniques
+81,Chi-Square Test,other_techniques
+81,Descriptive Statistics,other_techniques
+81,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+82,Area Under the ROC Curve (AUC),other_techniques
+82,Calibration Curve,other_techniques
+82,Generalized Variance Inflation Factor (VIF),other_techniques
+82,Hosmer-Lemeshow Goodness of Fit Test,other_techniques
+82,Naranjo Score,other_techniques
+82,Summary of Product Characteristics (SPC) as Gold Standard,other_techniques
+82,Descriptive Statistics,other_techniques
+83,F-measure maximization,other_techniques
+83,Precision,other_techniques
+83,Recall,other_techniques
+84,Chi-Square Test,other_techniques
+84,Descriptive Statistics,other_techniques
+85,Descriptive Statistics,other_techniques
+86,Crude Odds Ratio (OR) Calculation,other_techniques
+87,Not used,other_techniques
+88,Chi-Square Test,other_techniques
+88,Kruskal-Wallis Test,other_techniques
+88,Mann-Whitney U Test,other_techniques
+88,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+88,Descriptive Statistics,other_techniques
+89,Chi-Square Test,other_techniques
+89,Descriptive Statistics,other_techniques
+89,Mann-Whitney U Test,other_techniques
+90,Chi-Square Test,other_techniques
+90,Descriptive Statistics,other_techniques
+90,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+91,Descriptive Statistics,other_techniques
+92,Area Under the ROC Curve (AUC),other_techniques
+92,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+92,Weibull Shape Parameter (WSP) Test,other_techniques
+93,Descriptive Statistics,other_techniques
+93,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+94,Chi-Square Test,other_techniques
+94,Descriptive Statistics,other_techniques
+94,Mann-Whitney U Test,other_techniques
+94,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+94,Weibull Shape Parameter (WSP) Test,other_techniques
+94,Fisher’s Exact Test,other_techniques
+95,Fisher’s Exact Test,other_techniques
+96,Chi-Square Test,other_techniques
+96,Descriptive Statistics,other_techniques
+96,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+97,Kolmogorov–Smirnov Test (,other_techniques
+97,Weibull Shape Parameter (WSP) Test,other_techniques
+97,Descriptive Statistics,other_techniques
+97,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+98,Descriptive Statistics,other_techniques
+98,Naranjo Score,other_techniques
+99,Descriptive Statistics,other_techniques
+100,Descriptive Statistics,other_techniques
+100,Chi-Square Test,other_techniques
+101,Descriptive Statistics,other_techniques
+102,Descriptive Statistics,other_techniques
+103,Descriptive Statistics,other_techniques
+104,Descriptive Statistics,other_techniques
+105,Descriptive Statistics,other_techniques
+105,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+106,Descriptive Statistics,other_techniques
+107,Not used,other_techniques
+108,Descriptive Statistics,other_techniques
+108,Kaplan-Meier method,other_techniques
+108,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+109,Descriptive Statistics,other_techniques
+109,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+110,Not used,other_techniques
+111,Chi-Square Test,other_techniques
+111,Descriptive Statistics,other_techniques
+112,Not used,other_techniques
+113,Not used,other_techniques
+114,Chi-Square Test,other_techniques
+114,Descriptive Statistics,other_techniques
+114,Hosmer-Lemeshow Goodness of Fit Test,other_techniques
+115,Descriptive Statistics,other_techniques
+116,Descriptive Statistics,other_techniques
+117,Not used,other_techniques
+118,Chi-Square Test,other_techniques
+118,Descriptive Statistics,other_techniques
+118,Kruskal-Wallis Test,other_techniques
+118,Mann-Whitney U Test,other_techniques
+118,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+119,Chi-Square Test,other_techniques
+119,Weibull Shape Parameter (WSP) Test,other_techniques
+120,Descriptive Statistics,other_techniques
+121,Chi-Square Test,other_techniques
+121,Descriptive Statistics,other_techniques
+122,Descriptive Statistics,other_techniques
+122,Chi-Square Test,other_techniques
+123,Descriptive Statistics,other_techniques
+124,Descriptive Statistics,other_techniques
+125,Chi-Square Test,other_techniques
+125,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+126,Descriptive Statistics,other_techniques
+127,Descriptive Statistics,other_techniques
+128,Chi-Square Test,other_techniques
+128,Descriptive Statistics,other_techniques
+128,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+129,Descriptive Statistics,other_techniques
+130,Descriptive Statistics,other_techniques
+131,Descriptive Statistics,other_techniques
+132,Descriptive Statistics,other_techniques
+133,Descriptive Statistics,other_techniques
+134,Descriptive Statistics,other_techniques
+134,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+135,Descriptive Statistics,other_techniques
+135,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+136,Descriptive Statistics,other_techniques
+137,Not used,other_techniques
+138,Descriptive Statistics,other_techniques
+139,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+139,Descriptive Statistics,other_techniques
+139,Chi-Square Test,other_techniques
+140,Not used,other_techniques
+141,Chi-Square Test,other_techniques
+142,Not used,other_techniques
+143,Descriptive Statistics,other_techniques
+143,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+143,Weibull Shape Parameter (WSP) Test,other_techniques
+144,Descriptive Statistics,other_techniques
+145,Descriptive Statistics,other_techniques
+146,Descriptive Statistics,other_techniques
+146,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+147,Descriptive Statistics,other_techniques
+148,Descriptive Statistics,other_techniques
+149,Descriptive Statistics,other_techniques
+149,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+150,Descriptive Statistics,other_techniques
+150,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+151,Descriptive Statistics,other_techniques
+152,Not used,other_techniques
+153,Descriptive Statistics,other_techniques
+153,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+154,Descriptive Statistics,other_techniques
+154,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+155,Descriptive Statistics,other_techniques
+156,Descriptive Statistics,other_techniques
+156,Chi-Square Test,other_techniques
+156,Fisher’s Exact Test,other_techniques
+156,Mann-Whitney U Test,other_techniques
+157,Descriptive Statistics,other_techniques
+158,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+158,Mann-Whitney U Test,other_techniques
+158,Kruskal-Wallis Test,other_techniques
+158,Chi-Square Test,other_techniques
+158,Fisher’s Exact Test,other_techniques
+159,Not used,other_techniques
+160,Time-to-Onset (TTO) / Time-to-Event Analysis,other_techniques
+161,Descriptive Statistics,other_techniques
+162,Calinski–Harabasz Index,other_techniques
+162,Davies–Bouldin Index,other_techniques
+162,Dunn Index,other_techniques
+162,Baker-Hubert Gamma Index,other_techniques
