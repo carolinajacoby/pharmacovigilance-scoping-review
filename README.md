@@ -1,37 +1,50 @@
- # 💻 Data Mining Applications in Pharmacovigilance Databases: A Scoping Review
+# Data mining methods, tasks, and algorithms for pattern identification in the context of pharmacovigilance: a scoping review
 
-Authors: Ana Carolina Jacoby, Mel Amisa Matsuda, Carine Raquel Blatt, Sílvio César Cazella
+## Abstract
 
-## Objective
-To identify and describe the data mining algorithms used in pharmacovigilance studies to explore adverse drug events, based on real-world data from pharmacovigilance databases.
+**Background:** Pharmacovigilance is dedicated to the identification, evaluation, and prevention of adverse effects associated with the use of medicines after their commercialization. In this context, data mining techniques have been widely used for safety signal detection. Although machine learning algorithms have the potential to identify complex patterns and improve the prediction of adverse reactions, their application in pharmacovigilance databases is still limited.
 
-## Methodology: Scoping Review
+**Objective:** To map the computational approaches used in pharmacovigilance, identify the prevalence of traditional statistical methods and data mining techniques, and evaluate the role of machine learning algorithms.
 
-The study was conducted following the PRISMA-ScR guidelines.
+**Methods:** This scoping review was conducted according to the PRISMA-ScR guidelines, with a protocol registered on the Open Science Framework platform (10.17605/OSF.IO/KZJDT). PubMed, Scopus, Embase, and Web of Science databases were consulted to identify studies published between 2015 and July 2025.
 
-**Databases:** Pubmed, Embase, Scopus, Web Of Science.
+**Results:** The search identified 1,468 records, of which 162 studies were included after screening and eligibility assessment. Traditional disproportionality methods, such as Reporting Odds Ratio (ROR) and Proportional Reporting Ratio (PRR), were used in 87.7% of the studies, while 12.3% applied machine learning or deep learning techniques, mainly in classification tasks, with logistic regression being the most used algorithm. The most investigated drugs included immune checkpoint inhibitors, such as nivolumab, pembrolizumab, atezolizumab, and durvalumab. The most studied therapeutic classes were antineoplastic agents, immunosuppressants, and psycholeptics.
 
-**Collection Date:** July 16, 2025.
+**Conclusion:** Signal detection in pharmacovigilance remains predominantly based on classical statistical methods. The advancement of the field is still limited by the slow incorporation of advanced machine learning techniques and the limited public availability of datasets used in the analyses.
 
-**Inclusion Criteria:** Publications between 2015 and 2025, in English, that apply data mining techniques to real data from pharmacovigilance databases.
+**Keywords:** Pharmacovigilance, Data Mining, Adverse Drug Reactions, Signal Detection.
 
-**Research Question:** “Which data mining algorithms have been described to explore adverse drug events in pharmacovigilance studies?”
+---
 
-**Protocol:** The study protocol is registered on the [Open Science Framework (OSF)](https://osf.io/kzjdt/)
+## Repository Structure
 
-## Requirements and Reproducibility
-The analysis was performed using notebooks hosted on Google Colab, ensuring accessibility and ease of use.
+This repository is organized as follows:
 
-Language: Python (Colab Environment)
+- **`/docs`**: Contains the study protocol registered at OSF and supplementary methodological materials (S1 - Detailed Search Strategy).
+- **`/prisma`**: Includes the PRISMA flow diagram detailing the study selection process.
+- **`/data`**: Contains the datasets used in the review:
+  - `articles.csv`: Initial list of articles after duplicate removal.
+  - `reference.csv`: Articles included after title and abstract screening.
+  - `exploded_technique.csv`: Structured classification of techniques and algorithms identified.
+  - `excluded_studies.csv`: List of studies excluded during full-text reading with reasons.
+- **`/scripts`**: Contains the Google Colab/Jupyter Notebook (`scope_review__data__analysis.ipynb`) used for data analysis and the `requirements.txt` file.
 
-Libraries: All necessary libraries are installed directly within the first cells of the notebooks using !pip install.
+---
 
-## How to Reproduce:
+## Supplementary Material
 
+This material provides detailed methodological information and extended data tables supporting the findings of this review.
 
+- **S1. Detailed Search Strategy:** Full search strings and filters used across PubMed, Scopus, Embase, and Web of Science.
+- **S2. Data Extraction Form:** Standardized template used for data collection from the included studies.
 
+---
 
-## Licence
+## Reproducibility
 
-All data and documentation are licensed under CC BY 4.0.  
-All source code is licensed under the MIT License.
+To reproduce the analysis:
+
+1. Navigate to the `/scripts` folder.
+2. Install the dependencies using:
+   ```bash
+   pip install -r requirements.txt
