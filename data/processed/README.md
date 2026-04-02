@@ -1,8 +1,6 @@
 This folder contains the CSV files with the article data used in this scoping review.
 
----
-
-### File Descriptions:
+## File Descriptions:
 
 - **`articles.csv`**: Contains the 490 articles included after Rayyan automatically removed duplicates, which proceeded to the first stage of title and abstract screening.
 
@@ -10,9 +8,7 @@ This folder contains the CSV files with the article data used in this scoping re
 
 - **`exploded_technique.csv`**: Contains the structured classification of techniques, algorithms, and methods extracted from the final included articles. This file is formatted for statistical analysis, where each row represents a single technique linked to an article_id.
 
----
-
-### Classification of Techniques (exploded_technique.csv)
+## Classification of Techniques (`exploded_technique.csv`)
 The techniques in this file are categorized into:
 
 - **disproportionality_techniques**: Classical pharmacovigilance methods (PRR, ROR, IC, etc.).
@@ -21,14 +17,10 @@ The techniques in this file are categorized into:
 
 - **other_techniques**: Complementary statistical methods (Descriptive statistics, TTO, etc.).
 
----
-
-### **Usage Note**
+## **Usage Note**
 
 These datasets are consumed by the Google Colab notebooks located in the /scripts folder.
 
----
-
-### **Copyright**
+## **Copyright**
 
 All copyrights belong to the original authors and the corresponding journals. Any PDFs or metadata provided here are for academic and reference purposes only.
