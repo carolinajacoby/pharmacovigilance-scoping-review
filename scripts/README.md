@@ -8,7 +8,7 @@ The data used follow the structure defined during the data extraction phase of t
 
 ## Structure
 
-- `scope_review_data_analysis.ipynb`: main notebook containing all data analysis steps
+- **`scope_review_data_analysis.ipynb`**: main notebook containing all data analysis steps
 
 ## Requirements
 
@@ -25,7 +25,7 @@ The analyses were developed in a Python environment. The following libraries are
 To reproduce the results:
 
 1. Ensure all required libraries are installed  
-2. Run the notebook `scope_review_data_analysis.ipynb` sequentially  
+2. Run the notebook **`scope_review_data_analysis.ipynb`** sequentially  
 3. Use the data structured according to the review extraction process  
 
 ## Notes
