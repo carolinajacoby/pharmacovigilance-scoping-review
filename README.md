@@ -20,14 +20,16 @@
 
 This repository is organized as follows:
 
+- **`/data`**: Contains all datasets used in the review:
+  - **`/excluded`**: List of studies excluded after full-text reading, including reasons for exclusion.
+  - **`/processed`**: Cleaned and structured datasets used in the analysis:
+    - **`articles.csv`**: Initial list of articles after duplicate removal.
+    - **`exploded_technique.csv`**: Structured classification of identified techniques and algorithms identified.
+    - **`reference.csv`**: Articles included after title and abstract screening.
+  - **`/supplementary_material`**: Additional materials supporting the review.
 - **`/docs`**: Contains the study protocol registered at OSF and supplementary methodological materials (S1 - Detailed Search Strategy).
-- **`/prisma`**: Includes the PRISMA flow diagram detailing the study selection process.
-- **`/data`**: Contains the datasets used in the review:
-  - `articles.csv`: Initial list of articles after duplicate removal.
-  - `reference.csv`: Articles included after title and abstract screening.
-  - `exploded_technique.csv`: Structured classification of techniques and algorithms identified.
-  - `excluded_studies.csv`: List of studies excluded during full-text reading with reasons.
-- **`/scripts`**: Contains the Google Colab/Jupyter Notebook (`scope_review__data__analysis.ipynb`) used for data analysis and the `requirements.txt` file.
+- **`/prisma`**: Includes the PRISMA flow diagram describing the study selection process.
+- **`/scripts`**: Contains the Google Colab/Jupyter Notebook (**`scope_review__data__analysis.ipynb`**) used for data analysis, as well as the **`requirements.txt`** file for reproducibility.
 
 ---
 
@@ -46,5 +48,5 @@ To reproduce the analysis:
 
 1. Navigate to the `/scripts` folder.
 2. Install the dependencies using:
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
