@@ -44,9 +44,23 @@ This material provides detailed methodological information and extended data tab
 
 ## Reproducibility
 
-To reproduce the analysis:
+This project can be executed in two ways:
 
-1. Navigate to the `/scripts` folder.
-2. Install the dependencies using:
-```bash
+### Option 1: Google Colab (recommended)
+
+The easiest way to run the code is by using Google Colab.
+1. Upload the script folder (or the entire repository) to your Google Drive
+2. Open the notebook in Google Colab
+3. Run the cells normally
+The code is already prepared for this environment: it automatically connects to Google Drive and loads the necessary files for the analysis. Therefore, this is the simplest and fastest option.
+
+### Option 2: Local execution
+
+If you prefer to run the project locally:
+- Language: Python 3.10
+1. Clone or download the repository
+2. Install the dependencies:
+```Bash
 pip install -r requirements.txt
+```
+3. Run the script or notebook as usual
