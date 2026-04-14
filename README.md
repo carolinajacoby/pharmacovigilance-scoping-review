@@ -6,7 +6,7 @@
 
 **Objective:** To map the computational approaches used in pharmacovigilance, identify the prevalence of traditional statistical methods and data mining techniques, and evaluate the role of machine learning algorithms.
 
-**Methods:** This scoping review was conducted according to the PRISMA-ScR guidelines, with a protocol registered on the Open Science Framework platform (10.17605/OSF.IO/KZJDT). PubMed, Scopus, Embase, and Web of Science databases were consulted to identify studies published between 2015 and July 2025.
+**Methods:** This scoping review was conducted according to the PRISMA-ScR guidelines, with a protocol registered on the Open Science Framework platform {omited for blind review}. PubMed, Scopus, Embase, and Web of Science databases were consulted to identify studies published between 2015 and July 2025.
 
 **Results:** The search identified 1,468 records, of which 162 studies were included after screening and eligibility assessment. Traditional disproportionality methods, such as Reporting Odds Ratio (ROR) and Proportional Reporting Ratio (PRR), were used in 87.7% of the studies, while 12.3% applied machine learning or deep learning techniques, mainly in classification tasks, with logistic regression being the most used algorithm. The most investigated drugs included immune checkpoint inhibitors, such as nivolumab, pembrolizumab, atezolizumab, and durvalumab. The most studied therapeutic classes were antineoplastic agents, immunosuppressants, and psycholeptics.
 
